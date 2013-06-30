@@ -1,0 +1,40 @@
+a:2:{i:0;a:2:{i:0;s:2155:"														<div class="more_places">
+                <ul class="f14 tab">
+                	                	     <li class="current"><a end_region="511" limit="10" sort="update_time" sort_type="DESC" channel_id="133" attr="a,c"  title="曼谷" class="show_travel_region">曼谷</a></li>
+                	     <script language="javascript">
+                	     	  jQuery(function(){
+                	     	  	var channel_id="133";
+														var end_region="511";
+														var attr="a,c";
+														var limit="10";
+														var sort="update_time";
+														var sort_type="DESC";
+														var show="line_list_"+"133";
+                	     	  	get_travel_datas(show,channel_id,end_region,attr,"",limit,sort,sort_type,"");
+                	     	  });
+                	     </script>
+                	     	
+                                    	   <li class=""><a end_region="509" limit="10" sort="update_time" sort_type="DESC" channel_id="133" attr="a,c"  title="澳门" class="show_travel_region">澳门</a></li>
+                                    	   <li class=""><a end_region="498" limit="10" sort="update_time" sort_type="DESC" channel_id="133" attr="a,c"  title="悉尼" class="show_travel_region">悉尼</a></li>
+                   
+       				   </ul>
+       				      
+                        <div class="p_abs more_sort"><div class="more_sort_item">更多目的地<em class="h_arrow"></em></div>
+                              <div class="p_abs destination_area">
+                                <ul class="clearfix destination_data_list">
+                                  <li>
+                                                                         </li>
+                                  
+                                </ul>
+                              </div>
+        				</div>
+        			
+        				
+                    </div><!--more_places end-->
+                    
+                     <div class="line_list" id="line_list_133">
+                    	 
+                    	 
+                    	 
+                    </div><!--line_list end-->
+              ";i:1;N;}i:1;N;}

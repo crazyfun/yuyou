@@ -1,0 +1,24 @@
+a:2:{i:0;a:2:{i:0;s:869:"
+<div id="slide_menu">
+	     <a title="中国旅游网络分销联盟" href="/"><img  src="/upload/travelflashad/1361274664.jpg" alt="中国旅游网络分销联盟" title="中国旅游网络分销联盟"/></a>
+       <a title="注册送好礼" href="/registe/index.shtml"><img  src="/upload/travelflashad/1361274731.jpg" alt="注册送好礼" title="注册送好礼"/></a>
+       <a title="商家免费注册" href="/registe/company.shtml"><img  src="/upload/travelflashad/1361274822.jpg" alt="商家免费注册" title="商家免费注册"/></a>
+    
+
+</div> 
+
+           
+<script language="javascript">
+	jQuery('#slide_menu').slidy({
+    animation:  'slide',
+    children:   'a',
+    menu:       true,
+    pause:      true,
+    speed:      400,
+    time:       4000,
+    width:      722,
+    height:     210
+                    
+});
+
+</script>";i:1;a:2:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/js/slidy/jquery.slidy.css";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:29:"/js/slidy/jquery.slidy.min.js";}}}}i:1;N;}

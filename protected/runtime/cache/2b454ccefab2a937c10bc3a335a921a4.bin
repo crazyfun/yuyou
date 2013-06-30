@@ -1,0 +1,76 @@
+a:2:{i:0;a:2:{i:0;s:6318:"				<h2 class="left_hot_title">
+          <ul>
+           <li><a href="javascript:void(0);" class="tt_tab tt_tab_active" index="1"  title="热门路线" >热买路线</a></li>
+           <li><a href="javascript:void(0);" class="tt_tab" index="2"  title="当季推荐" >当季推荐</a></li>
+         </ul>
+       </h2>
+       
+       <div class="tabcontent" id="tabcontent_1"><!--Start Tabcontent 1 热门路线-->
+           <div class="hot_rec left_hot_li">
+                        <ul>
+                                     <li> 
+                            		<span class="top_num">1</span>
+                                <a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" src="/upload/images/_60_40_1359343445_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml"><span>【上海出发】厦门、鼓浪屿&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1880.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">2</span>
+                                <a title="【上海出发】北京双飞特价五日游" href="/travel/show/id/42.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】北京双飞特价五日游" src="/upload/images/_60_40_1358738631_thumb.png" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】北京双飞特价五日游" href="/travel/show/id/42.shtml"><span>【上海出发】北京双飞特价&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1680.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">3</span>
+                                <a title="【上海出发】三亚精彩蜈支洲双飞五日游" href="/travel/show/id/52.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】三亚精彩蜈支洲双飞五日游" src="//_60_40__thumb." /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】三亚精彩蜈支洲双飞五日游" href="/travel/show/id/52.shtml"><span>【上海出发】三亚精彩蜈支&nbsp;</span></a></p>
+                                <div class="rec_price"><b>3490.00</b>元起</div>
+                            </li>
+         
+                        </ul>
+					</div>
+       <div class="clear_float"></div> 
+       </div><!--End Tabcontent 1-->
+       
+       
+       
+       <!--Start Tabcontent 2-->
+       <div class="tabcontent" id="tabcontent_2" style="display:none;">
+          <div class="hot_rec left_hot_li">
+                        <ul>
+                                   <li> 
+                            		<span class="top_num">1</span>
+                                <a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" src="/upload/images/_60_40_1359343445_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml"><span>【上海出发】厦门、鼓浪屿&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1880.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">2</span>
+                                <a title="【上海出发】北京双飞特价五日游" href="/travel/show/id/42.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】北京双飞特价五日游" src="/upload/images/_60_40_1358738631_thumb.png" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】北京双飞特价五日游" href="/travel/show/id/42.shtml"><span>【上海出发】北京双飞特价&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1680.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">3</span>
+                                <a title="【上海出发】三亚精彩蜈支洲双飞五日游" href="/travel/show/id/52.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】三亚精彩蜈支洲双飞五日游" src="//_60_40__thumb." /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】三亚精彩蜈支洲双飞五日游" href="/travel/show/id/52.shtml"><span>【上海出发】三亚精彩蜈支&nbsp;</span></a></p>
+                                <div class="rec_price"><b>3490.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">4</span>
+                                <a title="【上海出发】北京高铁去飞机回特价五日游" href="/travel/show/id/44.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】北京高铁去飞机回特价五日游" src="/upload/images/_60_40_1358738631_thumb.png" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】北京高铁去飞机回特价五日游" href="/travel/show/id/44.shtml"><span>【上海出发】北京高铁去飞&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1680.00</b>元起</div>
+                            </li>
+         
+                        </ul>
+					</div>
+       </div>
+       <!--End Tabcontent 2 -->
+       <script language="javascript">
+       jQuery(function(){
+          togglemenu({"source":"tt_tab","target":"tabcontent","type":"1","effect":"2","effect_time":1000});
+       
+       });
+       
+       </script>";i:1;N;}i:1;N;}

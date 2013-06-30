@@ -1,0 +1,93 @@
+.net环境下ckeditor与ckfinder学习笔记 
+ckeditor 3.0.1学习笔记
+
+ 一.ckeditor 3.0.1精简
+
+
+  精简前:4.52M   精简后:853K
+  1.删除_samples和_source文件夹,分别为示例文件和未压缩源程序
+  2.删除lang文件夹下除zh-cn.js,en.js下的所有语言文件.根据需要删除
+  3.删除根目录下的changes.html(更新列表),install.html(安装指向),license.html(使用许可).
+  4.删除skins目录下不需要的皮肤.我一般用V2(简单.朴素)  //如果只保留V2则必须在config.js中指定皮肤
+
+二.ckeditor 3.0.1相关文件配置路径
+  1./ckeditor.js   核心文件,调用需加载
+  2./config.js     配置文件,参数配置均在此完成
+  3./plugins/smiley/images 表情符号.
+
+三.ckeditor应用(.net环境)
+   1.引用js脚本
+   <script type="text/javascript" src="ckeditor/ckeditor.js"></script>
+   2.将相应的控件替换成编辑器代码
+   <asp:TextBox ID="TextBox1" runat="server" Rows="10" TextMode="MultiLine"></asp:TextBox>
+   <script type="text/javascript">CKEDITOR.replace('TextBox1')</script>
+
+四.ckeditor配置(config.js配置文件)
+   详细api参数见:http://docs.cksource.com/ckeditor_api/,我的默认配置
+   CKEDITOR.editorConfig = function(config) {
+
+config.language = "zh-cn";
+config.skin = "v2";
+config.width = "80%";
+config.height = "400px";
+config.resize_enabled = false;
+config.toolbar =
+[
+['Source', 'Preview', '-'],
+['Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', ],
+['Undo', 'Redo', '-', 'Find', 'Replace', '-', 'SelectAll', 'RemoveFormat'],
+['Image', 'Flash', 'Table', 'HorizontalRule', 'Smiley', 'SpecialChar', 'PageBreak'],
+'/',
+['Bold', 'Italic', 'Underline', '-', 'Subscript', 'Superscript'],
+['NumberedList', 'BulletedList', '-', 'Outdent', 'Indent', 'Blockquote'],
+['JustifyLeft', 'JustifyCenter', 'JustifyRight', 'JustifyBlock'],
+['Link', 'Unlink', 'Anchor'],
+'/',
+['Format', 'Font', 'FontSize'],
+['TextColor', 'BGColor'],
+['Maximize', 'ShowBlocks', '-', 'About']
+];
+
+ckfinder学习笔记
+一.ckfinder精简
+   精简前:1.10M  精简后:947K
+   1.删除_samples和_source文件夹,分别为示例文件和未压缩源程序
+   2.删除根目录下changelog.txt,install.txt,license.txt文件
+   3.删除core/lang目录下除en.js,zh-cn.js的所有语言文件(根据条件删除)
+二.ckfinder配置
+   1.复制/bin目录下的ckfinder.dll文件至站点bin目录
+   2.复制ckfinder目录至站点根目录下(可另选择路径)
+三.ckfinder应用
+  1.与ckeditor集成,详情见官方文档,官方文档是加载修改,我用的方法是全局修改.
+  具体操作方法如下:修改ckeditor目录下的config.js文件,添加: 
+  config.filebrowserBrowseUrl = '/ckfinder/ckfinder.html';
+    config.filebrowserImageBrowseUrl = '/ckfinder/ckfinder.html?Type=Images';
+    config.filebrowserFlashBrowseUrl = '/ckfinder/ckfinder.html?Type=Flash';
+    config.filebrowserUploadUrl = '/ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Files';
+    config.filebrowserImageUploadUrl = '/ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Images';
+    config.filebrowserFlashUploadUrl = '/ckfinder/core/connector/aspx/connector.aspx?command=QuickUpload&type=Flash';
+    config.filebrowserWindowWidth = '800';
+    config.filebrowserWindowHeight = '500';
+  以上URL值需要根据你ckfinder路径的不同而不同,
+  2.单独应用
+  3.破解:
+  打开core/js下的两个ckfinder_ie.js和ckfinder_gecko.js文件.查找字符串"en.call(window,qo);"将其注释即可
+ 
+-----------------------------------------------
+
+上传路径地址修改
+1. 打开 " \ckfinder\config.ascx "，为SetConfig方法中的 BaseUrl 指定默认路径，如： 
+// 以userfiles 为默认路径，其目录下会自动生成images、flash等子目录。 
+BaseUrl = " ~/ckfinder/userfiles/"; 
+// NOTE：注意“ ~/ ”。 
+详细出处参考：http://www.jb51.net/article/21907.htm
+
+2、设置生成缩略图
+引用内容         Thumbnails.Url = BaseUrl + "_thumbs/";
+         Thumbnails.Dir = "";
+         Thumbnails.Enabled = true;
+         Thumbnails.MaxWidth = 100;
+         Thumbnails.MaxHeight = 100;
+         Thumbnails.Quality = 80;
+具体干啥应该看参数名称就知道了吧。。。
+文件后面的代码是设置上传文件类型和大小等等，大家看参数应该都可以明白，这里略过。

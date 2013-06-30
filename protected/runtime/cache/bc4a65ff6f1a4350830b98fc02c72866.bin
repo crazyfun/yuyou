@@ -1,0 +1,832 @@
+a:2:{i:0;a:2:{i:0;s:45915:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<link rel="stylesheet" type="text/css" href="/js/blogcalendar/calendar.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/js/jcarousel/skins/tango/skin.css" />
+<link rel="stylesheet" type="text/css" href="/js/lightbox/css/jquery.lightbox-0.5.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/css/css.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/css/comment.css" />
+<link rel="stylesheet" type="text/css" href="/js/jbox/Skins2/Pink/jbox.css" />
+<script type="text/javascript" src="/assets/b456505b/jquery.js"></script>
+<script type="text/javascript" src="/js/blogcalendar/calendar.js"></script>
+<script type="text/javascript" src="/themes/travel/js/jcarousel/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/js/lightbox/jquery.lightbox.js"></script>
+<script type="text/javascript" src="/js/basic.js"></script>
+<script type="text/javascript" src="/js/comments.js"></script>
+<script type="text/javascript" src="/js/jbox/jquery.jBox-2.3.min.js"></script>
+<script type="text/javascript" src="/js/jbox/i18n/jquery.jBox-zh-CN.js"></script>
+<script type="text/javascript" src="/js/select.js"></script>
+<title>上海出发【上海出发】苏州、乌镇二日游,苏州,杭州,二日游-誉游网-中国旅游网络分销联盟</title>
+	<meta name="description" content="上海出发,苏州,杭州,二日游">
+	<meta name="keywords" content="上海出发,苏州,杭州,二日游">
+	<link type="image/x-icon" rel="icon"  href="favicon.ico">
+	<link type="image/x-icon" rel="shortcut Icon"  href="favicon.ico">
+  
+</head>
+<body>
+	
+  	<div class="web_top">
+    <div class="top_link">
+        <div class="wel_text">
+        	        		<span>欢迎来到誉游网！</span>
+        	  <a href="/login/index.shtml" class="home_login" title="登入">登入</a>
+        	  <a href="/registe/index.shtml" class="home_login" title="游客注册">游客注册</a>
+        	  <a href="/registe/company.shtml" class="home_login" title="商家注册">商家注册</a>
+        	        	 
+        </div>
+        <div class="right_links"><span href="javascript:void();" style="position:relative;z-index:99;" id="my_order">我的订单
+        	   <ul class="my_order_ul">
+                <li><a href="/user/travelorder.shtml">我的线路订单</a></li>
+                <li><a href="/user/hotelsorder.shtml">我的酒店订单</a></li>
+                <li><a href="/user/grouporder.shtml">我的团购订单</a></li>
+             </ul>
+        	</span><span>|</span><a href="/help/index.shtml">在线帮助</a><span>|</span><a href="/webmap/index.shtml">网站地图</a><span>|</span><a href="javascript:setHomepage('http://www.lypub.com');">设为主页</a><span>|</span><a href="javascript:addCookie('http://www.lypub.com','誉游网');">收藏</a>
+        		<!--<span>|</span><a href="#">关注誉游网微博</a>--></div>
+    </div><!--top_link end-->
+    <div class="top_sch_con">
+        <div class="logo_Con"><a href="http://www.lypub.com"><img src="/themes/travel/css/images/logo.jpg" /></a></div>
+                 <div class="change_City">出发城市：上海<a href="/region/index.shtml">【切换城市】</a></div>
+                   <form enctype="multipart/form-data" id="header_search" action="/search/index.shtml" method="post">        <div class="sch_box"> 
+        	<div class="select_js">
+        	   <p>线路</p>
+        	   <ul class="search_ul">
+                <li ectype="travel">线路</li>
+                <li ectype="hotels">酒店</li>
+             </ul>
+            <input type="hidden" name="action" value="travel" />
+            
+          </div>
+          <input type="text" name="keywords" value="" class="t_put" id="header_search_keywords"/>
+          <input type="submit" class="s_put" value=""/>
+        </div>
+       </form>        <!--<div class="tel_Con"><img src="/themes/travel/css/images/top_tel.jpg" /></div>-->
+    </div><!--top_sch_con end--> 
+</div><!--web_top end-->
+
+
+<div class="nav_bg">
+    <div class="nav_con">
+    	
+    	 			<ul>
+				  <li><a href="/site/index.shtml" title="首页"
+                            >首页</a></li>
+					        	  <li><a href="/travel/index/channel/131.shtml" title="周边游" id="">周边游</a></li>
+                 	  <li><a href="/travel/index/channel/132.shtml" title="国内游" id="">国内游</a></li>
+                 	  <li><a href="/travel/index/channel/133.shtml" title="出境游" id="">出境游</a></li>
+                 	  <li><a href="/travel/index/channel/134.shtml" title="团队游" id="">团队游</a></li>
+                 	  <li><a href="/travel/index/channel/135.shtml" title="特价线路" id="">特价线路</a></li>
+                 	  <li><a href="/hotels/index/channel/138.shtml" title="国内酒店" id="">国内酒店</a></li>
+               </ul>
+        <div><!--<a href="/group/list/channel/137.shtml">团购</a><span>|</span>--><a href="/mchannels/information/channel/136.shtml">资讯</a></div>
+    </div>
+</div>
+<!--nav_bg end-->
+<div class="site_nav">
+  <ul>
+    <li>您当前所处的位置：</li>
+    <li><div class="breadcrumbs">
+<a href="http://www.lypub.com">首页</a> &raquo; <a href="/mchannels/list/channel/131/category.shtml">周边游</a> &raquo; <span>【上海出发】苏州、乌镇二日游</span></div>		</li>
+    
+  </ul>
+</div><!--//当前位置-->
+
+  	<div class="main_con">
+	
+<div class="show_main">
+<div class="show_left">
+<div class="show_top"><div style="float:left;">本产品由上海昶兴国际旅行社提供相关资讯与服务</div>
+	<!--分享-->
+          <div class="fxbox">
+          	<div class="fxt">分享到：</div>
+        <!-- Baidu Button BEGIN -->
+       				 <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+        					<a class="bds_qzone"></a>
+        					<a class="bds_tsina"></a>
+        					<a class="bds_tqq"></a>
+        					<a class="bds_renren"></a>
+        					<span class="bds_more"></span>
+									<a class="shareCount"></a>
+    					</div>  
+							<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=783195" ></script>
+							<script type="text/javascript" id="bdshell_js"></script>
+							<script type="text/javascript">
+									document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+							</script>
+
+					<!-- Baidu Button END -->
+          </div><!--分享结束-->
+  </div>  
+<h1 class="show_ltitle">【上海出发】苏州、乌镇二日游&nbsp;&nbsp;<img src='/themes/travel/css/images/orderOnLine.gif' width='73' height='15'/>&nbsp;&nbsp;<img src='/themes/travel/css/images/tejia_img.png' width='44' height='19'/>&nbsp;&nbsp;<img src='/themes/travel/css/images/remai_img.png' width='44' height='19'/>&nbsp;&nbsp;<img src='/themes/travel/css/images/tuijian_img.png' width='44' height='19'/></h1>
+   <div class="showmain_left"><!--showmain_left 左边 产品图片-->
+
+ 
+   <div id="preview">
+   	
+
+  
+  <div id="wrap" style="top:0px;z-index:9999;position:relative;">
+  	  	<a id="big_travel_a">
+  		<img width="325" height="280" id="big_travel_image" style="display: block;" src="//_325_280__thumb." alt="">
+  	</a>
+ </div>
+
+
+
+
+
+	<div id="spec-n5">
+		
+		<div id="spec-list"><!--小图-->
+			
+			
+			   <ul id="mycarousel" class="list-h jcarousel-skin-tango">
+        	         </ul> 
+         <script language="javascript">
+         	  jQuery(function(){  
+         	  	  jQuery('#gallery a').lightBox();
+            		//为ul设置jCarousel插件  
+            		jQuery("#mycarousel").jcarousel({
+            			'auto':5,
+            			'wrap':'circular'
+            		});  
+            		
+            		jQuery(".jcarousel_image").bind("click",function(){
+            			var iname=jQuery(this).attr("iname");
+            			var bsrc=jQuery(this).attr("bsrc");
+            			jQuery("#big_travel_image").attr("alt",iname);
+            			jQuery("#big_travel_image").attr("src",bsrc);
+            			
+            		});
+        		});  
+         </script>
+         
+			
+			
+			
+		</div><!--小图-->
+	
+    </div>
+</div>
+
+<!-------------------// 图片展示代码===============--->  
+</div>
+<div class="showmain_right"><!--showmain_right 右边 产品信息-->
+     <p>誉游价格：<span class="orange">￥<strong>220.00</strong></span>起</p>
+     <p>出游天数：<span class="orange">2</span>天</p>
+     <p>提前报名：1天，请尽量提前报名，以便顺利出游</p>
+     <p>出发地：上海市</p>
+     <p>途径：苏州</p>
+     <p>目的地：苏州</p>
+     <p>往返交通：空调旅游车</p>
+
+     	   
+          <!-- //顶踩 -->
+          	<div class="dcbox">
+            	  							<input type="button" class="bnt_up" id="bnt_up" value="我想去"/>
+            	<!--顶-->
+              <input type="button" class="bnt_down" id="bnt_down" value="我不想去"/>
+              <!--踩-->
+<script language="javascript">
+
+jQuery(function(){
+	     var pattern="travel";
+			 var id="34";
+       //jQuery.jBox.tip("正在删除数据...", 'loading');
+       jQuery.ajax({
+			  async:true,
+        type: "GET",
+        cache:true,
+        beforeSend:function(){},
+        url: "/api/vot/action/fetch",
+        dataType:"json",
+        data: "pattern="+pattern+"&id="+id,
+        success: function(msg){
+         if(msg.flag=='1'){
+           var datas=msg.datas;
+           jQuery("#bnt_up").val("我想去("+datas.goods+")");
+           jQuery("#bnt_down").val("我不想去("+datas.bads+")");
+         }
+        }
+      }); 
+      jQuery("#bnt_up").bind("click",function(){
+      	jQuery.ajax({
+			  async:true,
+        type: "GET",
+        cache:true,
+        beforeSend:function(){},
+        url: "/api/vot/action/goods",
+        dataType:"json",
+        data: "pattern="+pattern+"&id="+id,
+        success: function(msg){
+         if(msg.flag=='1'){
+           var datas=msg.datas;
+           jQuery("#bnt_up").val("我想去("+datas.goods+")");
+           
+           
+         }
+        }
+      });
+      	
+      }); 
+      
+      jQuery("#bnt_down").bind("click",function(){
+      	jQuery.ajax({
+			  async:true,
+        type: "GET",
+        cache:true,
+        beforeSend:function(){},
+        url: "/api/vot/action/bads",
+        dataType:"json",
+        data: "pattern="+pattern+"&id="+id,
+        success: function(msg){
+         if(msg.flag=='1'){
+           var datas=msg.datas;
+           jQuery("#bnt_down").val("我不想去("+datas.bads+")");
+           
+         }
+        }
+      });
+      	
+      });           	 	
+})
+</script>            </div>
+          <!-- //顶踩 -->
+     
+     
+        <div class="dlbox">
+     	   <a href="javascript:favorite_travel('34')" class="dtl_savebtn">收藏该产品</a>
+        </div>
+</div><!--//产品信息-->
+<div class="clear_float"></div>
+<div class="scroll_nav" id="scroll_nav">
+  <ul>
+    <li tab="tab1" class="scroll_nav_current"><a href="javascript:void(0)">行程说明</a></li>
+    <li tab="tab2"><a href="javascript:void(0);">特色推荐</a></li>
+    <li tab="tab3"><a href="javascript:void(0);">费用说明</a></li>
+    <li tab="tab4"><a href="javascript:void(0);">重要提示</a></li>
+    <li tab="tab5"><a href="javascript:void(0);">接待标准</a></li>
+    <li tab="tab6"><a href="javascript:void(0);">预订通知</a></li>
+    <li tab="tab7"><a href="javascript:void(0);">订购流程</a></li>
+    <li tab="tab8"><a href="javascript:void(0);">在线评论</a></li>
+  </ul>
+</div><!--//标题-->
+<div class="sbox">
+   <h3 class="h3_tit" id="tab1"><span>行程说明</span></h3>
+   <div class="row_sbox">
+   	   		 
+        
+        
+        
+  </div>
+</div><!--//sbox-->
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab2"><span>特色推荐</span></h3>
+   <div class="row_sbox">
+   	 <div class="day_introduction">
+       <p>上有天堂，下有苏杭，玩转苏州，中国第一古镇--乌镇</p>     </div>
+    </div>
+</div><!--//sbox-->
+
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab3"><span>费用说明</span></h3>
+   <div class="row_sbox">
+   	<div class="day_introduction">
+   		<p>1、门票：水上游50元/人&nbsp; 灵隐寺香火券30元/人 飞来峰 45元/人<br />
+2、用餐：自理<br />
+3、房差：无<br />
+4、保险：10元/人 旅游意外保险，推荐购买<br />
+5、其他：包含费用外的其他个人消费</p>   	</div>
+  </div>
+</div><!--//sbox-->
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab4"><span>重要提示</span></h3>
+   <div class="row_sbox">
+   	<div class="day_introduction">
+             </div>
+  </div>
+</div><!--//sbox-->
+<div class="sbox">
+   <h3 class="h3_tit" id="tab5"><span>接待标准</span></h3>
+   <div class="row_sbox">
+   	<div class="day_introduction">
+       <div class="trave_describe_content">
+<p>1、交通：往返空调旅游车<br />
+2、门票：景区大门票<br />
+3、住宿：1晚标准间双标间<br />
+3、保险：旅行社责任险、推荐购买旅游意外保险<br />
+4、导游：中文导游服务<br />
+5、用餐：餐费自理<br />
+6、儿童：仅含往返车费，导游服务，旅行社责任险，不含门票</p>
+</div>    </div>
+    
+    </div>
+</div><!--//sbox-->
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab6"><span>预订通知</span></h3>
+   <div class="row_sbox">
+   	<div class="day_introduction">
+       <div class="trave_describe_content">
+<p>1、景区门票1.0&mdash;1.3m儿童半价，70周岁以上老年人、军官证（门票半价建议只付车导费门票自理）游客购票请注意选择，如特殊人群购买全票，凭证退还门票的旅行社差价。仅供参考，以景区即时发布的信息为准。<br />
+2、购票前请仔细阅读本行程内容。行程内时间安排仅供参考，若受交通、气候、当地接待容量等原因影响，我社将根据实际情况调整游览行程，但不减少景点。届时敬请各位游客谅解。<br />
+3、出门在外，安全第一！请您不要在行车途中随意走动，保管好您的随身物品；请您关照好自己随行的老人和儿童；请您不要自行参加行程以外的具有一定危险的活动（如游泳、攀岩等）；请您不要食用无证摊贩等出售的食品。（建议自购旅游意外险）<br />
+4、在不减少景点的前提下，旅游城市可以改变游览顺序；如遇不可抗拒因素而产生的费用自理，散客拼团根据报名人数配车，不指定任何（大小）车型。<br />
+5、该线路区间交通为公共班车或火车，无导游陪同，（地接社导游车站接好后全程安排）若游客自动放弃行程，我社不做任何退款处理，景点门票的减免和优惠按照旅行社折扣价（非门市挂牌价）当地现退客人；<br />
+6、黄金周（五一、十一、春节）期间需补房差50元/晚/人，如游程火车升级为高铁，请客人自补差价！</p>
+</div>    </div>
+    </div>
+</div><!--//sbox-->
+
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab7"><span>订购流程</span></h3>
+   <div class="row_sbox">
+     <div class="day_introduction font12">
+        <p class="booking_process">网上/电话预订<span></span>资源确认<span></span>签约/付款<span></span>收到短信凭证<span></span>开心出游<span></span>归来回访</p>
+        <dl>
+           <dt><strong>签约方式</strong></dt>
+           <dd>在线签约：在您确认合同范本以后，我们将盖章的电子档合同发送到您邮箱。</dd>
+           <dd>传真签约：双方在合同上签字盖章后，通过传真进行签约。如涉及签证材料需要快递，请在快件中注明订单号。</dd>
+           <dd>快递签约：誉游网提供免费快递签约、代收款服务。您确认合同并签字后完成签约。</dd>
+           <dd>门市签约：您可以直接到您所预定的门市地点进行签约。</dd>
+        </dl>  
+     </div>
+     <div class="day_line"></div>
+     <div class="day_introduction font12">
+     	<p><strong>在线支付</strong></p>
+        <p><img src="/themes/travel/css/images/zf_pic.jpg" /></p>
+     </div>
+     <div class="day_line"></div>
+     <div class="day_introduction font12">
+     	<p><strong>支付平台支付</strong></p>
+        <p><img src="/themes/travel/css/images/zf2_pic.jpg" /></p>
+     </div>
+     <div class="day_line"></div>
+    
+
+     
+   </div>
+</div><!--//sbox-->
+
+<div class="sbox">
+   <h3 class="h3_tit" id="tab8"><span>在线评论</span></h3>
+   <div class="row_sbox">
+       
+ <form id="modelcomment" onsubmit="return false;" action="/comment/comment/comments.shtml" method="POST">          		
+          		<input type="hidden" name="action" value="comment"/>
+        			<input type="hidden" name="model_id" value="archive"/>
+        			<input type="hidden" name="content_id" value="34"/>
+        			<input type="hidden" name="level" value="2"/>
+       			  <input type="hidden" name="user_flag" value="1"/>
+               <textarea class="comment" id="content" name="content"></textarea>      
+      
+                <div class="rev_bntbox"><!--按钮-->
+
+                    <input type="button" class="rev_b1" onclick="javascript:pop_no_pay_login();" value="登录"/>
+            
+      
+                </div>
+   </form> 
+                
+                <div class="reply" id="comments_datas"><!--回复-->
+                	
+                </div>
+                <!--end 回复-->
+ <script language="javascript">
+    var model_id="archive";
+    var content_id="34";
+    var level="2";
+    var user_flag="1";
+ 	  var comments_obj="";
+ 	  jQuery(document).ready(function(){
+ 		  comments_obj=new comments(model_id,content_id,level,user_flag,"comments_datas");
+ 	  });
+ 	  function submit_comments(conmments_form){
+		  comments_obj.comment(conmments_form)
+	  } 
+ </script>    </div>
+</div><!--//sbox-->
+<div class="main_rbox" style="margin-top:10px;"><!--相关产品推荐-->
+        <h2 class="main_rbtitle"><span>相关产品推荐</span></h2>
+      <div class="main_rb_tj show_tj">
+            <ul>
+            	                    <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/14.shtml" title="【上海出发】苏州园林一日游">【上海出发】苏州园林一日游</a></h2>
+                     <p>苏州园林甲天下，已被列&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/14.shtml" title="【上海出发】苏州园林一日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">45.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/19.shtml" title="【上海出发】杭州西湖一日游">【上海出发】杭州西湖一日游</a></h2>
+                     <p>“天下西湖三十六，其中&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/19.shtml" title="【上海出发】杭州西湖一日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">75.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/48.shtml" title="【上海出发】杭州西湖一日游">【上海出发】杭州西湖一日游</a></h2>
+                     <p>“天下西湖三十六，其中&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/48.shtml" title="【上海出发】杭州西湖一日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">75.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/35.shtml" title="【上海出发】杭州、千岛湖二日游">【上海出发】杭州、千岛湖二日游</a></h2>
+                     <p>上有天堂，下有苏杭，玩转&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/35.shtml" title="【上海出发】杭州、千岛湖二日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">340.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/50.shtml" title="【上海出发】苏州、乌镇二日游">【上海出发】苏州、乌镇二日游</a></h2>
+                     <p>上有天堂，下有苏杭，玩转&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/50.shtml" title="【上海出发】苏州、乌镇二日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price"></span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/31.shtml" title="【上海出发】苏州、周庄二日游">【上海出发】苏州、周庄二日游</a></h2>
+                     <p>上有天堂，下有苏杭，玩转&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/31.shtml" title="【上海出发】苏州、周庄二日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">160.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/57.shtml" title="【上海出发】杭州西湖一日游">【上海出发】杭州西湖一日游</a></h2>
+                     <p>“天下西湖三十六，其中&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/57.shtml" title="【上海出发】杭州西湖一日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">75.00</span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/58.shtml" title="【上海出发】杭州、乌镇二日游">【上海出发】杭州、乌镇二日游</a></h2>
+                     <p>上有天堂，下有苏杭，玩转&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/58.shtml" title="【上海出发】杭州、乌镇二日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price"></span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/49.shtml" title="【上海出发】杭州、无锡二日游">【上海出发】杭州、无锡二日游</a></h2>
+                     <p>上有天堂，下有苏杭，玩转&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/49.shtml" title="【上海出发】杭州、无锡二日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price"></span>起</div>
+                </li>
+                     <li>
+                   <div class="main_rb_tjleft">
+                     <h2><a href="/travel/show/id/66.shtml" title="【上海出发】B杭州西湖一日游">【上海出发】B杭州西湖一日游</a></h2>
+                     <p>“天下西湖三十六，其中&nbsp;</p>
+                   </div>
+                  <div class="main_rb_tjright"><a href="/travel/show/id/66.shtml" title="【上海出发】B杭州西湖一日游">查看团期</a></div>
+                   <div class="main_rb_tjcenter"><span class="rb_price">75.00</span>起</div>
+                </li>
+        
+            	
+            </ul>
+      </div>
+           <div class="clear_float"></div>
+    </div>
+</div><!--show_left-->
+
+<div class="show_right">
+ <div class="datebox" id="datebox">
+   <div class="date_top_title"><span id="idCalendarYear"></span>出行日价格表</div>
+   <div class="date_leftbox">
+   	 <p class="da_bnt1"><a href="javascript:void(0);"  id="pre_date"><img src="/themes/travel/css/images/pr_bnt1.jpg" /></a></p>
+     <p><span id="idCalendarMonth"></span></p>
+     <p class="da_bnt2"><a href="javascript:void(0);"  id="next_date"><img src="/themes/travel/css/images/pr_bnt.jpg" /></a></p>
+   </div>
+   <div class="date_rightbox">
+   <div class="da_tabright">
+            	<table class="date_tab daleft" width="100%" border="0">
+            		 <colgroup>
+							 <col width="15%" />
+							 <col width="14%" />
+							 <col width="14%" />
+							 <col width="14%" />
+							 <col width="14%" />
+							 <col width="14%" />
+							 <col />
+              </colgroup>
+       <thead>
+                     <tr class="date_top_tr">
+                      <td>天</td><td>一</td><td>二</td><td>三</td><td>四</td><td>五</td><td>六</td>
+                     </tr>
+                </thead>
+                <tbody id="idCalendar">
+               
+               </tbody>
+               </table>
+            </div>
+   </div>
+ <!--//出行时间价格表-->
+ <div class="clear_float"></div>
+<div class="play_date">		
+        <dl>
+        		<form id="" action="/pay/step1.shtml" method="post"><input type="hidden" value="34" name="travel_id" id="travel_id" />        	
+          <dd >
+          <p><span class="date_type">游玩日期&nbsp;</span>
+          	<select name='travel_date' class='play_select' id='travel_date_select'><option class='travel_date_option' value='2013-07-01' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-01,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-02' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-02,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-03' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-03,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-04' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-04,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-05' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-05,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-06' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-06,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-07' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-07,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-08' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-08,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-09' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-09,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-10' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-10,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-11' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-11,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-12' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-12,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-13' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-13,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-14' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-14,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-15' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-15,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-16' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-16,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-17' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-17,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-18' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-18,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-19' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-19,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-20' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-20,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-21' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-21,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-22' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-22,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-23' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-23,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-24' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-24,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-25' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-25,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-26' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-26,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-27' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-27,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-28' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-28,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-29' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-29,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-30' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-30,成人价:￥220.00,儿童价:￥130.00</option><option class='travel_date_option' value='2013-07-31' seats='30' travel_id='34' date_id='68' price='220.00' child_price='130.00'>2013-07-31,成人价:￥220.00,儿童价:￥130.00</option></select></p>
+         <div class="play_price">
+           <table>
+             <tbody>
+              <tr  style="">
+                <td><span class="date_type">成人数</span></td>
+                <td>
+                  <span class="minus" onclick="javascript:add_sub(2,'input_adult');">-</span>
+                  <input name="adult_nums" id="input_adult"  class="prod-num" type="text"  maxamt="100" minamt="1" value="1" size="2">
+                  <span class="plus" onclick="javascript:add_sub(1,'input_adult');">+</span>                 </td>
+                  	
+                  	<td><span class="date_type">儿童数</span></td>
+                <td>
+                  <span class="minus" onclick="javascript:add_sub(2,'input_child');">-</span>
+                  <input name="child_nums" id="input_child"  class="prod-num" type="text" maxamt="100" minamt="1"  value="1" size="2">
+                  <span class="plus" onclick="javascript:add_sub(1,'input_child');">+</span>                 </td>
+             </tr>
+             </tbody>
+             </table>
+           </div>
+           
+           <p>
+            	<span class="date_type">报名地点&nbsp;</span>
+          	  <select class="play_select" id="company_id" name="company_id">
+<option value="5">上海昶兴国际旅行社(上海市普陀区)</option>
+</select>           </p>
+
+           <span><input class="btn_submit" type="submit" value="立即约定" ></span>
+           </dd>
+           
+           
+       <div class="clear_float"></div>
+       </form> 
+       
+    </dl>
+    <p>您可先进行预订,客服将在工作时间为您提供咨询服务咨询/预订热线：1010-6060</p>
+    </div></div>
+    
+    <script language="javascript">
+	var id="34";
+	var cale = new Calendar("idCalendar", {
+	//SelectDay: new Date().setDate(10),
+	onSelectDay: function(o){ o.className = "onSelect"; },
+	onToday: function(o){ o.className = "ondate"; },
+	onFinish: function(){
+		 document.getElementById("idCalendarYear").innerHTML = this.Year;
+     document.getElementById("idCalendarMonth").innerHTML = this.Month;
+
+	}
+});
+
+if(cale){
+	get_date_detail_datas(id,cale.Year,cale.Month);
+}
+document.getElementById("pre_date").onclick = function(){ cale.PreMonth();get_date_detail_datas(id,cale.Year,cale.Month); }
+document.getElementById("next_date").onclick = function(){ cale.NextMonth();get_date_detail_datas(id,cale.Year,cale.Month); }
+jQuery(".hsdetail").live("click",function(){
+	var date=jQuery(this).attr("date");
+	jQuery("#travel_date_select").val(date);
+	
+});
+</script>
+
+
+</div><!--//show_right-->
+<div class="clear_float"></div>
+</div>
+
+</div>
+
+<script language="javascript">
+	  var $scroll_nav_top = jQuery('#scroll_nav').offset();
+	  var $datebox_top=jQuery("#datebox").offset();
+	  var tab1=0,tab2=0,tab3=0,tab4=0,tab5=0,tab6=0,tab7=0,tab8=0;
+	  var offset=50;
+	  function scrollLocation () {
+         tab1 = jQuery('#tab1').offset()?jQuery('#tab1').offset().top-offset:0;
+         tab2 = jQuery('#tab2').offset()?jQuery('#tab2').offset().top-offset:0;
+         tab3 = jQuery('#tab3').offset()?jQuery('#tab3').offset().top-offset:0;
+         tab4 = jQuery('#tab4').offset()?jQuery('#tab4').offset().top-offset:0;
+         tab5 = jQuery('#tab5').offset()?jQuery('#tab5').offset().top-offset:0;
+         tab6 = jQuery('#tab6').offset()?jQuery('#tab6').offset().top-offset:0;
+         tab7 = jQuery('#tab7').offset()?jQuery('#tab7').offset().top-offset:0;
+         tab8 = jQuery('#tab8').offset()?jQuery('#tab8').offset().top-offset:0;
+    }
+
+    jQuery(window).on('load',function(){
+    	    scrollLocation();
+    	}).resize(function(){scrollLocation();}).scroll(function(){  //监听滚动条
+        var $scrollTop = jQuery(this).scrollTop(),
+        $scroll_nav = jQuery('#scroll_nav');
+        $datebox=jQuery("#datebox");
+				if ( ua.ie()<=6 ) {
+					$scrollTop>=$scroll_nav_top.top?$scroll_nav.css({top:$scrollTop,position:"absolute","margin-top":0}):$scroll_nav.css({top:0,position:"relative","margin-top":0});//IE6定位
+					$scrollTop>=$datebox_top.top?$datebox.css({top:$scrollTop,position:"absolute"}):$datebox.css({top:0,position:"relative"});//IE6定位
+				}else{ 
+         $scrollTop>=$scroll_nav_top.top?$scroll_nav.addClass('scroll_nav_scoll'):$scroll_nav.removeClass('scroll_nav_scoll');//浮动导航
+         $scrollTop>=$datebox_top.top?$datebox.addClass('datebox_scoll'):$datebox.removeClass('datebox_scoll');//浮动导航
+        }
+           if(tab8>0&&$scrollTop >= tab8) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab8"]').addClass('scroll_nav_current');
+            } else if(tab7>0&&$scrollTop >= tab7) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab7"]').addClass('scroll_nav_current');
+            }else  if(tab6>0&&$scrollTop >= tab6) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab6"]').addClass('scroll_nav_current');
+            }else  if(tab5>0&&$scrollTop >= tab5) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab5"]').addClass('scroll_nav_current');
+            }else  if(tab4>0&&$scrollTop >= tab4) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab4"]').addClass('scroll_nav_current');
+            }else  if(tab3>0&&$scrollTop >= tab3) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab3"]').addClass('scroll_nav_current');
+            }else  if(tab2>0&&$scrollTop >= tab2) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab2"]').addClass('scroll_nav_current');
+            }else  if(tab1>0&&$scrollTop >= tab1) {
+                jQuery('.scroll_nav ul li').removeClass('scroll_nav_current');
+                jQuery('.scroll_nav ul li[tab="tab1"]').addClass('scroll_nav_current');
+            }
+            
+            
+    });
+    
+    jQuery('.scroll_nav ul li').removeClass('scroll_nav_current').bind("click",function(event){
+    	var tab_attr=jQuery(this).attr("tab");
+    	var tab_obj=jQuery("#"+tab_attr);
+    	jQuery('html, body').stop(true).animate({scrollTop:tab_obj.offset().top},1000,function(){});
+    	event.stopPropagation(); 
+    });
+    
+    function favorite_travel(travel_id){
+    	var user_id="";
+    	if(user_id){
+    	jQuery.ajax({
+	    async:true,
+        type: "Get",
+        cache:true,
+        beforeSend:function(){},
+        url: "/api/travelfavorite",
+        dataType:"json",
+        data: "travel_id="+travel_id+"&rmd="+Date.parse(new Date()),
+        success: function(msg){
+          if(msg.flag=='1'){
+          	jQuery.jBox.tip(msg.message, '收藏提示');
+          }
+        }
+      });
+    }else{
+    	pop_no_pay_login();
+    }
+    	
+    }
+    
+	
+	
+</script>
+
+  	
+<div class="foot_con">
+	 <div class="web_bot_ad"><p><img width="980" height="80" src="/fckupload/image/image/guanggao_tupian/web_bot_ad(1).jpg" alt="" /></p></div>
+	
+	  <div class="help_center">
+    	<div class="help_con">
+    		            <dl>
+                <dt class="h_dl_title1"><a href="#">注册与登录</a></dt>
+                                		<dd><a href="/help/index/cid/22.shtml#h39">门店会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h40">商户会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h46">PSOE机刷卡</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h37">游客会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h38">会员登录</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title2"><a href="#">预订与合同</a></dt>
+                                		<dd><a href="/help/index/cid/23.shtml#h41">网上在线预订</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h42">门店现场签约</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h43">合同签署方式</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title3"><a href="#">付款与发票</a></dt>
+                                		<dd><a href="/help/index/cid/24.shtml#h44">网银在线支付</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h45">门店现金付款</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h47">发票内容及获取</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title4"><a href="#">优惠与质量</a></dt>
+                                		<dd><a href="/help/index/cid/25.shtml#h48">什么是抵用券</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h49">抵用券如何使用</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h50">抵用券如何获取</a></dd>
+                                
+            </dl>
+            
+        	<div class="clear_float"></div>
+    	</div>
+	</div><!--help_center end-->
+	
+		
+    <div class="help_bottom">
+    	  <dl class="h_dl_btitle1">
+    <dt>省钱省时</dt>
+    <dd>品质更高，价格更低</dd>
+</dl>
+<dl class="h_dl_btitle2">
+    <dt>5000家门票供应商</dt>
+    <dd>一人一票也可折扣</dd>
+</dl>
+<dl class="h_dl_btitle3">
+    <dt>门票+酒店</dt>
+    <dd>全面自助游服务供应商</dd>
+</dl>
+<dl class="h_dl_btitle4">
+    <dt>7天x24小时服务</dt>
+    <dd>实力体现，体验更佳</dd>
+</dl>        <div class="clear_float"></div>
+    </div><!--help_bottom end-->
+    <div class="linksbox"><!--友情链接-->
+    	<dl class="linksmain">
+        	<dt><!--链接类型-->
+            	  <strong>友情链接</strong>
+                <span class="linklabel">
+                				                <a class="flinktype_item linklabela_hover" href="javascript:void();" keys="15">综合类</a>
+			           			                <a class="flinktype_item " href="javascript:void();" keys="16">旅游类</a>
+			           	              </span>
+            </dt><!--结束 链接类型-->
+            
+            			                 <dd id="flink_15" class="flink_item" style='display:block;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.tangdy.com" target="_blank">汤迪网络</a></li>
+                					                  					</ul>
+            					</dd>
+			       			                 <dd id="flink_16" class="flink_item" style='display:none;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.lyyhome.com" target="_blank">立火旅行网</a></li>
+                					                  						     <li><a rel="nofollow" href="http://www.41ly.cn" target="_blank">中元旅游网</a></li>
+                					                  					</ul>
+            					</dd>
+			           
+    <div style="clear:both"></div>
+    </div>
+    
+    <script language="javascript">
+    	jQuery(function(){
+    		 jQuery(".flinktype_item").hover(function(){
+    		 	  var keys=jQuery(this).attr("keys");
+    		 	  jQuery(".linklabela_hover").removeClass("linklabela_hover");
+    		 	  jQuery(this).addClass("linklabela_hover");
+    		 	  jQuery(".flink_item").hide();
+    		 	  jQuery("#flink_"+keys).show();
+    		 	
+    		},function(){
+    			  
+    		});
+    		
+    	})
+    </script>	<div class="footer">
+		<div class="footer_div"><a class="a_black12" href="/help/index/cid/26.shtml#h52">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="a_black12" href="help/index/cid/26.shtml#h51">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="&gt;广告服务&lt;/a&gt;&lt;/div&gt;
+&lt;div class=" href="/help/index/cid/26.shtml#h53">Copyright&copy; 2012-2020 lypub.com</a></div>
+<p>&nbsp;</p>
+<div class="footer_img">
+<ul>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p1.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p2.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p3.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p4.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p5.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p6.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p7.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p8.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p9.gif" /></a></li>
+</ul>
+<div class="clear_float">&nbsp;</div>
+</div>
+<p>&nbsp;</p>	</div><!--footer end-->
+</div>
+
+<!--fanhui-->
+    <!--<a id="Feedback" title="意见反馈" target="_blank" href="#" hidefocus="false"></a>-->
+    <div id="goTopBtn"></div>
+    <!--//fanhui--></body>
+</html>
+
+
+";i:1;a:15:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:29:"/js/blogcalendar/calendar.css";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:28:"/js/blogcalendar/calendar.js";}}i:2;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:51:"/themes/travel/js/jcarousel/jquery.jcarousel.min.js";}}i:3;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:48:"/themes/travel/js/jcarousel/skins/tango/skin.css";}}i:4;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:40:"/js/lightbox/css/jquery.lightbox-0.5.css";}}i:5;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:31:"/js/lightbox/jquery.lightbox.js";}}i:6;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/themes/travel/css/css.css";}}i:7;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:30:"/themes/travel/css/comment.css";}}i:8;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:29:"/js/jbox/Skins2/Pink/jbox.css";}}i:9;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:6:"jquery";}}i:10;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:12:"/js/basic.js";}}i:11;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:15:"/js/comments.js";}}i:12;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:31:"/js/jbox/jquery.jBox-2.3.min.js";}}i:13;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:34:"/js/jbox/i18n/jquery.jBox-zh-CN.js";}}i:14;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:13:"/js/select.js";}}}}i:1;O:18:"CDbCacheDependency":7:{s:12:"connectionID";s:2:"db";s:3:"sql";s:38:"SELECT MAX(update_time) FROM tr_travel";s:6:"params";N;s:23:" CDbCacheDependency _db";N;s:23:" CCacheDependency _data";a:1:{s:16:"MAX(update_time)";s:10:"1372566117";}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}

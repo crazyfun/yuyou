@@ -1,0 +1,132 @@
+<?php
+      
+       $this->widget('SearchItems', array( 
+          'model_name'=>'TravelDate', 
+          'user_operate'=>array(
+              array(
+               'name'=>'增加出发日期',
+               'value'=>$this->createUrl("add",array('travel_id'=>$travel_id)),
+              ),
+          ),
+          //搜索的内容字段
+          'search_datas'=>array(
+             
+             'travel_id'=>array(
+               'name'=>'',
+               'type'=>'hidden',//搜索框的类型
+               'select'=>$travel_id,
+               'value'=>'',
+               'htmlOptions'=>array(),
+             ),
+             
+             'travel_date'=>array(
+               'name'=>'出发时间',
+               'type'=>'date',//搜索框的类型
+               'select'=>$page_params['travel_date'],
+               'value'=>'',
+               'htmlOptions'=>array(),
+             ),
+             
+             'date_type'=>array(
+               'name'=>'时间类型',
+               'type'=>'select',//搜索框的类型
+               'select'=>$page_params['date_type'],
+               'value'=>array(''=>'时间类型','1'=>'规律日期','2'=>'日期段'),
+               'htmlOptions'=>array(),
+             ),
+          ), 
+          'dataprovider'=>$dataProvider,
+          //列表显示的字段
+          'attributes'=>array(
+             array(
+                'name'=>'id',
+                'type'=>'raw',//字段的属性 参考yii
+                'value'=>'$data->id',//如果为空则以$data->id为值 如果有值则 已$data->func()填充
+             ),
+			 			array(
+							'name'=>'travel_id',
+							'type'=>'raw',
+							'value'=>'$data->show_attribute("travel_id")',
+						 ),
+ 						array(
+                'name'=>'travel_date',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("travel_date")',
+             ),
+             array(
+                'name'=>'date_type',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("date_type")',
+             ),
+             array(
+                'name'=>'type_value1',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("type_value1")',
+             ),
+             array(
+                'name'=>'type_value2',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("type_value2")',
+             ),
+             array(
+                'name'=>'adult_price',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("adult_price")',
+             ),
+             array(
+                'name'=>'child_price',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("child_price")',
+             ),
+              array(
+                'name'=>'fa_price',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("fa_price")',
+             ),
+             array(
+                'name'=>'fc_price',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("fc_price")',
+             ),
+             array(
+                'name'=>'seats',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("seats")',
+             ),
+              array(
+                'name'=>'group',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("group")',
+             ),
+             array(
+                'name'=>'create_id',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("create_id")',
+             ),
+			
+             array(
+                'name'=>'create_time',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("create_time")',
+             ),
+              
+             array(
+                'name'=>'操作',
+                'type'=>'raw',
+                'value'=>'$data->get_operate()',
+             ),
+          
+          ),
+          //批量操作按钮
+          'operates'=>array(
+             array(
+               'name'=>'删除所有',
+               'value'=>'javascript:batch_operate(\''.$this->createUrl("delete",array('travel_id'=>$travel_id)).'\');'
+             ),
+          ),
+          //是否需要全选列
+          'checked_all'=>true,
+          //是否使用ajax翻页
+          'ajax'=>false,    
+       ));
+?>

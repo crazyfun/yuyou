@@ -1,0 +1,1 @@
+<div style="text-align:left;line-height:20px;margin:10px 10px;"><?php echo $agreement_value;?></div>

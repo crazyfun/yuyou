@@ -1,0 +1,40 @@
+a:2:{i:0;a:2:{i:0;s:1861:"<div class="linksbox"><!--友情链接-->
+    	<dl class="linksmain">
+        	<dt><!--链接类型-->
+            	  <strong>友情链接</strong>
+                <span class="linklabel">
+                				                <a class="flinktype_item linklabela_hover" href="javascript:void();" keys="15">综合类</a>
+			           			                <a class="flinktype_item " href="javascript:void();" keys="16">旅游类</a>
+			           	              </span>
+            </dt><!--结束 链接类型-->
+            
+            			                 <dd id="flink_15" class="flink_item" style='display:block;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.tangdy.com" target="_blank">汤迪网络</a></li>
+                					                  					</ul>
+            					</dd>
+			       			                 <dd id="flink_16" class="flink_item" style='display:none;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.lyyhome.com" target="_blank">立火旅行网</a></li>
+                					                  						     <li><a rel="nofollow" href="http://www.41ly.cn" target="_blank">中元旅游网</a></li>
+                					                  					</ul>
+            					</dd>
+			           
+    <div style="clear:both"></div>
+    </div>
+    
+    <script language="javascript">
+    	jQuery(function(){
+    		 jQuery(".flinktype_item").hover(function(){
+    		 	  var keys=jQuery(this).attr("keys");
+    		 	  jQuery(".linklabela_hover").removeClass("linklabela_hover");
+    		 	  jQuery(this).addClass("linklabela_hover");
+    		 	  jQuery(".flink_item").hide();
+    		 	  jQuery("#flink_"+keys).show();
+    		 	
+    		},function(){
+    			  
+    		});
+    		
+    	})
+    </script>";i:1;N;}i:1;N;}

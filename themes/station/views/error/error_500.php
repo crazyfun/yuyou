@@ -1,0 +1,1 @@
+<div class="web_error">该站点尚未开通或者已关闭，请联系管理员。</div>

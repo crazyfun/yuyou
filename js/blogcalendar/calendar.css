@@ -1,0 +1,25 @@
+.pr_table{width:700px;margin:10px auto 0 auto;font-family:"微软雅黑";}
+.pr_tabtop{height:34px;background:url(images/tody_top.png) no-repeat;line-height:34px;color:#fff;text-align:center;font-weight:bold;}
+.pr_tabcenter{background:url(images/tody_center.jpg) repeat-y 1px top;}
+.pr_tabbottom{height:20px;margin-top:-4px;}
+.pr_tableft{width:144px;padding-left:6px;float:left;line-height:300px;text-align:center;background:url(images/tody_left.gif) repeat-y 1px top;position:relative;}
+.pr_tableft_main{color:#d64e0c;font-size:36px;background:#fcdbb3;padding:10px 0;}
+.pr_bnt1{position:absolute;top:22px;left:70px;}
+.pr_bnt2{position:absolute;top:270px;left:70px;}
+.pr_tabright{width:519px;float:left;padding:18px 15px;background:url(images/tody_right.jpg) repeat-y right top #fafbd3;}
+.date_tab{border-collapse:collapse;}
+.date_top_tr{color:#7f2d04;font-size:14px;font-weight:bold;text-align:center;height:30px;line-height:30px;}
+#idCalendar{border:1px solid #f0d785;}
+#idCalendar td{height:40px;width:55px;padding:10px 0 0 10px;border-top:1px solid #f0d785;border-right:1px solid #f0d785;font-size:16px;color:#333;font-weight:bold;vertical-align: top;}
+#idCalendar .orange{color:#ff7814;}
+.ondate{background:#f0d785;}
+.hdetail span{font-size:12px;font-weight:normal;color:#e86400;line-height:25px;text-align:right;padding:10px 0 0 10px;}
+.hdetail span b{font-size:16px;font-weight:normal;}
+.hdetail span s{color:#000;text-decoration: none;}
+.weekend{color: #FF7814;}
+#idCalendarYear{padding-right:2px;color:#ff0000;font-size:14px;}
+.gray{color:#999999;}
+.hsdetail{cursor:pointer;}
+.hsdetail span{word-break:break-all;word-wrap:break-word;overflow:auto;padding:2px 0;font-size:10px;font-weight:normal;color:#e86400;line-height:10px;text-align:right;display:block;width:100%;display:block;width:25px;}
+.hsdetail span b{font-size:10px;font-weight:normal;}
+.hsdetail span s{color:#000;text-decoration: none;}

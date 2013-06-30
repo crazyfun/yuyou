@@ -1,0 +1,44 @@
+a:2:{i:0;a:2:{i:0;s:2228:"            <h2 class="main_rbtitle">
+           <div class="main_rbmenu">
+           	<ul>
+           	                	     <li class="current2"><a end_region="509" limit="-1" sort="update_time" sort_type="DESC" channel_id="133" attr="t"  title="澳门" class="show_travel_region">澳门</a></li>
+                	     <script language="javascript">
+                	     	  jQuery(function(){
+                	     	  	var channel_id="133";
+														var end_region="509";
+														var attr="t";
+														var limit="-1";
+														var sort="update_time";
+														var sort_type="DESC";
+														var show="line_list_"+"133";
+                	     	  	get_travel_datas(show,channel_id,end_region,attr,"",limit,sort,sort_type,"jingxuantuijian");
+                	     	  });
+                	     </script>
+                	     	
+                                    	   <li class=""><a end_region="498" limit="-1" sort="update_time" sort_type="DESC" channel_id="133" attr="t"  title="悉尼" class="show_travel_region">悉尼</a></li>
+                                    	   <li class=""><a end_region="511" limit="-1" sort="update_time" sort_type="DESC" channel_id="133" attr="t"  title="曼谷" class="show_travel_region">曼谷</a></li>
+                   
+                  </ul>
+      
+             <div class="p_abs j_more_sort main_rbmore"><div class="j_more_sort_item">更多目的地<em class="h_arrow"></em></div>
+                              <div class="p_abs j_destination_area">
+                                <ul class="clearfix destination_data_list">
+                                  <li>
+                                       
+                                        
+                                  </li>
+                                  
+                                </ul>
+                              </div>
+        				</div>
+
+           </div>
+           <!--//main_rbmenu-->
+           <span>出境游特价</span>
+        </h2>
+        <div class="clear_float"></div>
+        <div class="main_rb_tj" id="line_list_133">
+           
+        </div>  
+        <div class="clear_float"></div>                  
+              ";i:1;N;}i:1;N;}

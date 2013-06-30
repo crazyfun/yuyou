@@ -1,0 +1,65 @@
+a:2:{i:0;a:2:{i:0;s:4589:"                <div class="membertop_title">我的主页</div>
+                 			           
+										<div class="membermenu2"><!--用户中心-->
+                    	<h3 class="user_default"><a href="javascript:toggle_menu('user_default');">用户中心</a></h3>
+                         
+                        <ul id="user_default">
+                        	                     	         <li class="user_index"><a  href="/user/index.shtml">个人资料</a></li>
+                                               	         <li class="user_editprofile"><a  href="/user/editprofile.shtml">修改资料</a></li>
+                                               	         <li class="user_editemail"><a  href="/user/editemail.shtml">修改邮箱</a></li>
+                                               	         <li class="user_editpassword"><a  href="/user/editpassword.shtml">修改密码</a></li>
+                                               	         <li class="user_editpaypassword"><a  href="/user/editpaypassword.shtml">修改支付密码</a></li>
+                                               	         <li class="user_coupon"><a class='user_item_active' href="/user/coupon.shtml">积分明细</a></li>
+                                               	         <li class="user_scheduler"><a  href="/user/scheduler.shtml">我的行程</a></li>
+                                               	         <li class="user_message"><a  href="/user/message.shtml">站内消息</a></li>
+                                               	         <li class="user_contacter"><a  href="/user/contacter.shtml">常用联系人</a></li>
+                                                   	
+                      </ul>
+                                        </div>
+                			           
+										<div class="membermenu2"><!--用户中心-->
+                    	<h3 class="user_travel"><a href="javascript:toggle_menu('user_travel');">我的线路</a></h3>
+                         
+                        <ul id="user_travel">
+                        	                     	         <li class="user_travelorder"><a  href="/user/travelorder.shtml">线路订单</a></li>
+                                               	         <li class="user_travelfavorite"><a  href="/user/travelfavorite.shtml">线路收藏</a></li>
+                                                   	
+                      </ul>
+                                        </div>
+                			           
+										<div class="membermenu2"><!--用户中心-->
+                    	<h3 class="user_hotels"><a href="javascript:toggle_menu('user_hotels');">我的酒店</a></h3>
+                         
+                        <ul id="user_hotels">
+                        	                     	         <li class="user_hotelsorder"><a  href="/user/hotelsorder.shtml">酒店订单</a></li>
+                                               	         <li class="user_hotelsfavorite"><a  href="/user/hotelsfavorite.shtml">酒店收藏</a></li>
+                                                   	
+                      </ul>
+                                        </div>
+                			           
+										<div class="membermenu2"><!--用户中心-->
+                    	<h3 class="user_group"><a href="javascript:toggle_menu('user_group');">我的团购</a></h3>
+                         
+                        <ul id="user_group">
+                        	                     	         <li class="user_grouporder"><a  href="/user/grouporder.shtml">团购订单</a></li>
+                                               	         <li class="user_groupfavorite"><a  href="/user/groupfavorite.shtml">团购收藏</a></li>
+                                                   	
+                      </ul>
+                                        </div>
+                                
+                
+                <script language="javascript">
+                		function toggle_menu(id){
+                			var slide_obj=jQuery("#"+id);
+                			if(slide_obj.css("display")=="none"){
+                				slide_obj.slideDown("fast");
+                				slide_obj.parent().removeClass("membermenu");
+                				slide_obj.parent().addClass("membermenu2");
+                			}else{
+                				slide_obj.slideUp("fast");
+                				slide_obj.parent().removeClass("membermenu2");
+                				slide_obj.parent().addClass("membermenu");
+                			}
+                		}
+                </script>
+";i:1;N;}i:1;N;}

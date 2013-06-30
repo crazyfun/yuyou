@@ -1,0 +1,509 @@
+a:2:{i:0;a:2:{i:0;s:22961:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<link rel="stylesheet" type="text/css" href="/themes/travel/js/hotelsjcarousel/skins/tango/skin.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/css/css.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/css/comment.css" />
+<link rel="stylesheet" type="text/css" href="/js/jbox/Skins2/Pink/jbox.css" />
+<script type="text/javascript" src="/assets/b456505b/jquery.js"></script>
+<script type="text/javascript" src="/themes/travel/js/hotelsjcarousel/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/js/My97DatePicker/WdatePicker.js"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.3"></script>
+<script type="text/javascript" src="/js/basic.js"></script>
+<script type="text/javascript" src="/js/comments.js"></script>
+<script type="text/javascript" src="/js/jbox/jquery.jBox-2.3.min.js"></script>
+<script type="text/javascript" src="/js/jbox/i18n/jquery.jBox-zh-CN.js"></script>
+<script type="text/javascript" src="/js/select.js"></script>
+<title>测试酒店,测试酒店-誉游网-中国旅游网络分销联盟</title>
+	<meta name="description" content=",测试酒店">
+	<meta name="keywords" content=",测试酒店">
+	<link type="image/x-icon" rel="icon"  href="favicon.ico">
+	<link type="image/x-icon" rel="shortcut Icon"  href="favicon.ico">
+  
+</head>
+<body>
+	
+  	<div class="web_top">
+    <div class="top_link">
+        <div class="wel_text">
+        	        		<span>欢迎来到誉游网！</span>
+        	  <a href="/login/index.shtml" class="home_login" title="登入">登入</a>
+        	  <a href="/registe/index.shtml" class="home_login" title="游客注册">游客注册</a>
+        	  <a href="/registe/company.shtml" class="home_login" title="商家注册">商家注册</a>
+        	        	 
+        </div>
+        <div class="right_links"><span href="javascript:void();" style="position:relative;z-index:99;" id="my_order">我的订单
+        	   <ul class="my_order_ul">
+                <li><a href="/user/travelorder.shtml">我的线路订单</a></li>
+                <li><a href="/user/hotelsorder.shtml">我的酒店订单</a></li>
+                <li><a href="/user/grouporder.shtml">我的团购订单</a></li>
+             </ul>
+        	</span><span>|</span><a href="/help/index.shtml">在线帮助</a><span>|</span><a href="/webmap/index.shtml">网站地图</a><span>|</span><a href="javascript:setHomepage('http://www.lypub.com');">设为主页</a><span>|</span><a href="javascript:addCookie('http://www.lypub.com','誉游网');">收藏</a>
+        		<!--<span>|</span><a href="#">关注誉游网微博</a>--></div>
+    </div><!--top_link end-->
+    <div class="top_sch_con">
+        <div class="logo_Con"><a href="http://www.lypub.com"><img src="/themes/travel/css/images/logo.jpg" /></a></div>
+         		  	         <div class="change_City">&nbsp;</div>
+
+                   <form enctype="multipart/form-data" id="header_search" action="/search/index.shtml" method="post">        <div class="sch_box"> 
+        	<div class="select_js">
+        	   <p>线路</p>
+        	   <ul class="search_ul">
+                <li ectype="travel">线路</li>
+                <li ectype="hotels">酒店</li>
+                
+             </ul>
+            <input type="hidden" name="action" value="travel" />
+            
+          </div>
+          <input type="text" name="keywords" value="" class="t_put" id="header_search_keywords"/>
+          <input type="submit" class="s_put" value=""/>
+        </div>
+       </form>        <!--<div class="tel_Con"><img src="/themes/travel/css/images/top_tel.jpg" /></div>-->
+    </div><!--top_sch_con end--> 
+</div><!--web_top end-->
+
+
+<div class="nav_bg">
+    <div class="nav_con">
+    	 			<ul>
+				  <li><a href="/site/index.shtml" title="首页"
+                            >首页</a></li>
+					        	  <li><a href="/travel/index/channel/131.shtml" title="周边游" id="">周边游</a></li>
+                 	  <li><a href="/travel/index/channel/132.shtml" title="国内游" id="">国内游</a></li>
+                 	  <li><a href="/travel/index/channel/133.shtml" title="出境游" id="">出境游</a></li>
+                 	  <li><a href="/travel/index/channel/134.shtml" title="团队游" id="">团队游</a></li>
+                 	  <li><a href="/travel/index/channel/135.shtml" title="特价线路" id="">特价线路</a></li>
+                 	  <li><a href="/hotels/index/channel/138.shtml" title="国内酒店" id="">国内酒店</a></li>
+               </ul>
+        <div><!--<a href="/group/list/channel/137.shtml">团购</a><span>|</span>--><a href="/mchannels/information/channel/136.shtml">资讯</a></div>
+    </div>
+</div>
+<!--nav_bg end-->
+<div class="site_nav">
+  <ul>
+    <li>您当前所处的位置：</li>
+    <li><div class="breadcrumbs">
+<a href="http://www.lypub.com">首页</a> &raquo; <a href="/mchannels/list/channel/138/category.shtml">国内酒店</a> &raquo; <span>测试酒店</span></div>		</li>
+    
+  </ul>
+</div><!--//当前位置-->
+
+  	<div class="main_con">
+<div class="h_basics"><!--酒店基本信息-->
+       <div class="h_baspic"><!--酒店图片-->
+          <div class="h_bp1"><img alt="测试酒店" src="/upload/images/_320_342_1369475889_thumb.gif" width="320" height="342"/></div>
+          <div class="h_bp2">
+          	              <ul>
+             	             	<li id="gallery"><img src="/upload/images/_92_92_1369475889_thumb.gif" alt="<p>测试酒店</p>" /></li>
+                           
+             </ul>
+             <div class="ht_pmaor"><a href="#hotels_images_pointer">查看更多图片（1张）</a></div>
+          </div>
+       </div><!--//酒店图片-->
+       
+       <div class="h_bastext"><!--酒店文字介绍-->
+           <ul>
+              <li><strong>开业时间：</strong>2013-05-14</li>
+              <li><strong>酒店地址：</strong>上海市</li>
+              <li><strong>酒店电话：</strong>15102761464</li>
+              <li><strong>酒店星级：</strong>经济型</li>
+              <li><strong>酒店品牌：</strong>168酒店</li>
+              <li><strong>周边景点：</strong>
+              	世界之窗&nbsp;&nbsp;博物馆             
+            </li> 
+              <li>
+              	
+     	  						 <a href="javascript:favorite_hotels('1')" class="dtl_savebtn">收藏该产品</a>
+        				
+             </li>	
+             <li> 
+              	
+              	<div class="fxbox">
+          	<div class="fxt">分享到：</div>
+        <!-- Baidu Button BEGIN -->
+       				 <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+        					<a class="bds_qzone"></a>
+        					<a class="bds_tsina"></a>
+        					<a class="bds_tqq"></a>
+        					<a class="bds_renren"></a>
+        					<span class="bds_more"></span>
+									<a class="shareCount"></a>
+    					</div>  
+							<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=783195" ></script>
+							<script type="text/javascript" id="bdshell_js"></script>
+							<script type="text/javascript">
+									document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+							</script>
+
+					<!-- Baidu Button END -->
+          </div><!--分享结束-->
+          </li>
+          </ul>
+       </div><!--//酒店文字介绍-->
+   </div><!--//h_basics-->
+   
+   
+   <div class="hb_box"><!--房型预订-->
+       <h3 class="h3_tit"><span>房型预订</span></h3>
+       <div class="hb_row">
+       	         	  <form id="submit_hotels_beds" action="/hotelspay/step1.shtml" method="post"><input id="submit_hotels_price_id" type="hidden" value="" name="hotels_price_id" />		
+       	  <div class="hotel_search_time">
+       	  	  <span>入住时间：<input class="start_date" doubleCalendar="1" id="hotels_start_date" dateFmt="yyyy-MM-dd" onclick="javascript:WdatePicker({doubleCalendar:true,dateFmt:&quot;yyyy-MM-dd&quot;,startDate:&quot;2013-06-29&quot;,readOnly:true});" type="text" value="2013-06-29" name="start_date" /></span>
+              &nbsp;&nbsp;<span>退房时间：<input class="end_date" doubleCalendar="1" minDate="2013-06-30" maxDate="2013-07-26" id="hotels_end_date" dateFmt="yyyy-MM-dd" onclick="javascript:WdatePicker({doubleCalendar:true,minDate:&quot;2013-06-30&quot;,maxDate:&quot;2013-07-26&quot;,dateFmt:&quot;yyyy-MM-dd&quot;,startDate:&quot;2013-06-30&quot;,readOnly:true});" type="text" value="2013-06-30" name="end_date" /></span>
+              <span><input class="sear_bnt" id="search_button" name="yt0" type="button" value="" /></span>
+       	 </div>
+       	 </form> 
+          <div class="htl_room_table" id="hotels_beds">
+          	
+          	
+          </div>
+          
+       </div>
+   </div><!--//房型预订-->
+   
+   
+   <div class="hb_box"><!--酒店介绍-->
+       <h3 class="h3_tit"><span>酒店介绍</span></h3>
+     <div class="hb_row">
+        <div class="hb_dec">
+           <p>测试酒店</p>        </div>
+     </div>
+   </div>
+   
+      
+   
+   <div class="hb_box"><!--酒店介绍-->
+       <h3 class="h3_tit"><span>交通信息</span></h3>
+     <div class="hb_row">
+        <div class="hb_dec">
+           <div>
+              <strong>交通信息：</strong>
+              	234路公交&nbsp;&nbsp;乘坐地铁到王家湾下              </div>
+              
+              					 			 <div class="sch_new_guide" style="margin-bottom:5px;">
+              <div id="map_container" style="width:950px; height:410px"></div>
+		  	</div>
+<script type="text/javascript">
+	jQuery(function(){
+		GShowMap();
+	});
+ function GShowMap() {
+	  var lng="";
+	  var lat="";
+	  var address="上海";
+	  var region_name="上海";
+	  
+	  if(lng&&lat){
+			var map = new BMap.Map("map_container");
+			map.enableScrollWheelZoom();
+			var opts = {type: BMAP_NAVIGATION_CONTROL_SMALL}  
+			map.addControl(new BMap.NavigationControl(opts)); 
+			var point = new BMap.Point(lng, lat);
+			map.centerAndZoom(point, 12);
+			var marker = new BMap.Marker(point); 
+			map.addOverlay(marker); 
+		}else{
+			var map = new BMap.Map("map_container");
+		map.enableScrollWheelZoom();
+		var opts = {type: BMAP_NAVIGATION_CONTROL_SMALL}  
+		map.addControl(new BMap.NavigationControl(opts)); 
+		var marker="";
+		var myGeo = new BMap.Geocoder();    
+		myGeo.getPoint(address, function(point){  
+ 		 if (point) {  
+   		map.centerAndZoom(point, 12);
+   		marker=new BMap.Marker(point); 
+   		map.addOverlay(marker); 
+ 		 }else{
+ 			  myGeo.getPoint(region_name, function(point){ 
+ 			  	map.centerAndZoom(point, 12);
+   				marker=new BMap.Marker(point); 
+   				map.addOverlay(marker); 
+ 			  },region_name);  
+ 		 }  
+		},region_name);  
+	}
+}
+
+</script>       			
+       			
+        </div>
+     </div>
+   </div>
+   
+   
+   
+   <div class="hb_box" id="hotels_images_pointer"><!--酒店图片-->
+       <h3 class="h3_tit"><span>酒店图片</span></h3>
+     <div class="hb_row">
+        <div class="hb_infor_pic">
+            <div class="hb_ipic1">
+               <p><img width="795" height="138" src="/upload/images/_795_138_1369475889_thumb.gif" id="hotels_big_image" /></p>
+               <h2><span id="hotels_title"><p>测试酒店</p></span><span><b id="hotels_current">1</b>/1张</span></h2>
+            </div>
+            
+            
+            <div class="hb_ipiclist">
+                <ul id="mycarousel" class="jcarousel-skin-tango">
+                	                	  <li><img key="1" class="hotels_images" big_src="/upload/images/_795_138_1369475889_thumb.gif" width="196" height="105" src="/upload/images/_196_105_1369475889_thumb.gif" alt="<p>测试酒店</p>"/></li>
+                                
+                </ul>
+            </div>
+        </div>
+     </div>
+   </div><!--//酒店图片-->
+   <div class="hb_box"><!--用户点评-->
+       <h3 class="h3_tit"><span>用户点评</span></h3>
+     <div class="hb_row">
+        
+ <form id="modelcomment" onsubmit="return false;" action="/comment/comment/comments.shtml" method="POST">          		
+          		<input type="hidden" name="action" value="comment"/>
+        			<input type="hidden" name="model_id" value="archive"/>
+        			<input type="hidden" name="content_id" value="1"/>
+        			<input type="hidden" name="level" value="2"/>
+       			  <input type="hidden" name="user_flag" value="1"/>
+               <textarea class="comment" id="content" name="content"></textarea>      
+      
+                <div class="rev_bntbox"><!--按钮-->
+
+                    <input type="button" class="rev_b1" onclick="javascript:pop_no_pay_login();" value="登录"/>
+            
+      
+                </div>
+   </form> 
+                
+                <div class="reply" id="comments_datas"><!--回复-->
+                	
+                </div>
+                <!--end 回复-->
+ <script language="javascript">
+    var model_id="archive";
+    var content_id="1";
+    var level="2";
+    var user_flag="1";
+ 	  var comments_obj="";
+ 	  jQuery(document).ready(function(){
+ 		  comments_obj=new comments(model_id,content_id,level,user_flag,"comments_datas");
+ 	  });
+ 	  function submit_comments(conmments_form){
+		  comments_obj.comment(conmments_form)
+	  } 
+ </script>     </div>
+   </div><!--//用户点评片-->
+   <div class="hb_box"><!--相关酒店-->
+       <h3 class="h3_tit"><span>相关酒店</span></h3>
+       <div class="hb_row">
+            <div class="hb_xg"><!--hb_xg-->
+               <ul>
+               	         
+                 
+               </ul>
+            </div><!--//hb_xg-->
+       </div>
+   </div><!--//相关酒店-->
+</div><!--main_con end-->
+<script language="javascript">
+						var hotels_id="1";
+         	  jQuery(function(){  
+         	  	   jQuery(".hotel_yd").live("click",function(){
+         	  	   	
+         	  	   	var hotels_price_id=jQuery(this).attr("hotels_price_id");
+         	  	   	jQuery("#submit_hotels_price_id").val(hotels_price_id);
+         	  	    document.getElementById("submit_hotels_beds").submit();
+         	  	  });
+         	  	   jQuery("#mycarousel").jcarousel({
+            			'auto':4,
+            			'wrap':'circular'
+            		});
+            		
+            		jQuery(".hotels_images").bind("click",function(){
+            			var big_src=jQuery(this).attr("big_src");
+            			var alt=jQuery(this).attr("alt");
+            			var key=jQuery(this).attr("key");
+            			jQuery("#hotels_big_image").attr("src",big_src).fadeIn("slow");
+            			jQuery("#hotels_title").html(alt);
+            			jQuery("#hotels_current").html(key);
+            			
+            		});
+            		var start_date=jQuery("#hotels_start_date").val();
+            		var end_date=jQuery("#hotels_end_date").val();
+            		get_hotels_beds(hotels_id,start_date,end_date);
+            		jQuery("#search_button").bind("click",function(){
+            			var start_date=jQuery("#hotels_start_date").val();
+            			var end_date=jQuery("#hotels_end_date").val();
+            			get_hotels_beds(hotels_id,start_date,end_date);
+            		});
+    
+            		
+         	  });
+         	  
+ function get_hotels_beds(hotels_id,start_date,end_date){
+ 	  var hotels_beds=jQuery("#hotels_beds");
+ 		jQuery.ajax({
+	    async:true,
+        type: "Get",
+        cache:true,
+        beforeSend:function(){hotels_beds.html("<div class='progress_img'><img src='/css/images/loading.gif' width='19' height='18'/></div>");},
+        url: "/hotels/beds",
+        dataType:"html",
+        data: "hotels_id="+hotels_id+"&start_date="+start_date+"&end_date="+end_date+"&rmd="+Date.parse(new Date()),
+        success: function(msg){
+          hotels_beds.html(msg);
+        }
+      });
+ }
+
+ 	  
+ function favorite_hotels(hotels_id){
+    	var user_id="";
+    	if(user_id){
+    	jQuery.ajax({
+	    async:true,
+        type: "Get",
+        cache:true,
+        beforeSend:function(){},
+        url: "/api/hotelsfavorite",
+        dataType:"json",
+        data: "hotels_id="+hotels_id+"&rmd="+Date.parse(new Date()),
+        success: function(msg){
+          if(msg.flag=='1'){
+          	jQuery.jBox.tip(msg.message, '收藏提示');
+          }
+        }
+      });
+    }else{
+    	pop_no_pay_login();
+    }
+    	
+    }
+         	  	  
+</script>  	
+<div class="foot_con">
+	 <div class="web_bot_ad"><p><img width="980" height="80" src="/fckupload/image/image/guanggao_tupian/web_bot_ad(1).jpg" alt="" /></p></div>
+	
+	  <div class="help_center">
+    	<div class="help_con">
+    		            <dl>
+                <dt class="h_dl_title1"><a href="#">注册与登录</a></dt>
+                                		<dd><a href="/help/index/cid/22.shtml#h39">门店会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h40">商户会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h46">PSOE机刷卡</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h37">游客会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h38">会员登录</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title2"><a href="#">预订与合同</a></dt>
+                                		<dd><a href="/help/index/cid/23.shtml#h41">网上在线预订</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h42">门店现场签约</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h43">合同签署方式</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title3"><a href="#">付款与发票</a></dt>
+                                		<dd><a href="/help/index/cid/24.shtml#h44">网银在线支付</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h45">门店现金付款</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h47">发票内容及获取</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title4"><a href="#">优惠与质量</a></dt>
+                                		<dd><a href="/help/index/cid/25.shtml#h48">什么是抵用券</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h49">抵用券如何使用</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h50">抵用券如何获取</a></dd>
+                                
+            </dl>
+            
+        	<div class="clear_float"></div>
+    	</div>
+	</div><!--help_center end-->
+	
+		
+    <div class="help_bottom">
+    	  <dl class="h_dl_btitle1">
+    <dt>省钱省时</dt>
+    <dd>品质更高，价格更低</dd>
+</dl>
+<dl class="h_dl_btitle2">
+    <dt>5000家门票供应商</dt>
+    <dd>一人一票也可折扣</dd>
+</dl>
+<dl class="h_dl_btitle3">
+    <dt>门票+酒店</dt>
+    <dd>全面自助游服务供应商</dd>
+</dl>
+<dl class="h_dl_btitle4">
+    <dt>7天x24小时服务</dt>
+    <dd>实力体现，体验更佳</dd>
+</dl>        <div class="clear_float"></div>
+    </div><!--help_bottom end-->
+    <div class="linksbox"><!--友情链接-->
+    	<dl class="linksmain">
+        	<dt><!--链接类型-->
+            	  <strong>友情链接</strong>
+                <span class="linklabel">
+                				                <a class="flinktype_item linklabela_hover" href="javascript:void();" keys="15">综合类</a>
+			           			                <a class="flinktype_item " href="javascript:void();" keys="16">旅游类</a>
+			           	              </span>
+            </dt><!--结束 链接类型-->
+            
+            			                 <dd id="flink_15" class="flink_item" style='display:block;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.tangdy.com" target="_blank">汤迪网络</a></li>
+                					                  					</ul>
+            					</dd>
+			       			                 <dd id="flink_16" class="flink_item" style='display:none;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.lyyhome.com" target="_blank">立火旅行网</a></li>
+                					                  						     <li><a rel="nofollow" href="http://www.41ly.cn" target="_blank">中元旅游网</a></li>
+                					                  					</ul>
+            					</dd>
+			           
+    <div style="clear:both"></div>
+    </div>
+    
+    <script language="javascript">
+    	jQuery(function(){
+    		 jQuery(".flinktype_item").hover(function(){
+    		 	  var keys=jQuery(this).attr("keys");
+    		 	  jQuery(".linklabela_hover").removeClass("linklabela_hover");
+    		 	  jQuery(this).addClass("linklabela_hover");
+    		 	  jQuery(".flink_item").hide();
+    		 	  jQuery("#flink_"+keys).show();
+    		 	
+    		},function(){
+    			  
+    		});
+    		
+    	})
+    </script>	<div class="footer">
+		<div class="footer_div"><a class="a_black12" href="/help/index/cid/26.shtml#h52">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="a_black12" href="help/index/cid/26.shtml#h51">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="&gt;广告服务&lt;/a&gt;&lt;/div&gt;
+&lt;div class=" href="/help/index/cid/26.shtml#h53">Copyright&copy; 2012-2020 lypub.com</a></div>
+<p>&nbsp;</p>
+<div class="footer_img">
+<ul>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p1.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p2.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p3.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p4.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p5.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p6.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p7.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p8.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p9.gif" /></a></li>
+</ul>
+<div class="clear_float">&nbsp;</div>
+</div>
+<p>&nbsp;</p>	</div><!--footer end-->
+</div>
+
+<!--fanhui-->
+    <!--<a id="Feedback" title="意见反馈" target="_blank" href="#" hidefocus="false"></a>-->
+    <div id="goTopBtn"></div>
+    <!--//fanhui--></body>
+</html>
+
+
+";i:1;a:14:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:57:"/themes/travel/js/hotelsjcarousel/jquery.jcarousel.min.js";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:54:"/themes/travel/js/hotelsjcarousel/skins/tango/skin.css";}}i:2;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:33:"/js/My97DatePicker/WdatePicker.js";}}i:3;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:33:"/js/My97DatePicker/WdatePicker.js";}}i:4;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:34:"http://api.map.baidu.com/api?v=1.3";}}i:5;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/themes/travel/css/css.css";}}i:6;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:30:"/themes/travel/css/comment.css";}}i:7;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:29:"/js/jbox/Skins2/Pink/jbox.css";}}i:8;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:6:"jquery";}}i:9;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:12:"/js/basic.js";}}i:10;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:15:"/js/comments.js";}}i:11;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:31:"/js/jbox/jquery.jBox-2.3.min.js";}}i:12;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:34:"/js/jbox/i18n/jquery.jBox-zh-CN.js";}}i:13;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:13:"/js/select.js";}}}}i:1;O:18:"CDbCacheDependency":7:{s:12:"connectionID";s:2:"db";s:3:"sql";s:38:"SELECT MAX(update_time) FROM tr_hotels";s:6:"params";N;s:23:" CDbCacheDependency _db";N;s:23:" CCacheDependency _data";a:1:{s:16:"MAX(update_time)";s:10:"1372502997";}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}

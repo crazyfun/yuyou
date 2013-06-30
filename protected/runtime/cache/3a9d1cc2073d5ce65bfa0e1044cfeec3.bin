@@ -1,0 +1,365 @@
+a:2:{i:0;a:2:{i:0;s:23862:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+	<link rel="stylesheet" type="text/css" href="/themes/travel/css/css.css" />
+<link rel="stylesheet" type="text/css" href="/themes/travel/css/comment.css" />
+<link rel="stylesheet" type="text/css" href="/js/jbox/Skins2/Pink/jbox.css" />
+<script type="text/javascript" src="/assets/b456505b/jquery.js"></script>
+<script type="text/javascript" src="/js/basic.js"></script>
+<script type="text/javascript" src="/js/comments.js"></script>
+<script type="text/javascript" src="/js/jbox/jquery.jBox-2.3.min.js"></script>
+<script type="text/javascript" src="/js/jbox/i18n/jquery.jBox-zh-CN.js"></script>
+<script type="text/javascript" src="/js/select.js"></script>
+<title>草莓采摘注意事项-誉游网-中国旅游网络分销联盟</title>
+	<meta name="description" content="注意事项,草莓采摘">
+	<meta name="keywords" content="注意事项,草莓采摘">
+	<link type="image/x-icon" rel="icon"  href="favicon.ico">
+	<link type="image/x-icon" rel="shortcut Icon"  href="favicon.ico">
+  
+</head>
+<body>
+	
+  	<div class="web_top">
+    <div class="top_link">
+        <div class="wel_text">
+        	        		<span>欢迎来到誉游网！</span>
+        	  <a href="/login/index.shtml" class="home_login" title="登入">登入</a>
+        	  <a href="/registe/index.shtml" class="home_login" title="游客注册">游客注册</a>
+        	  <a href="/registe/company.shtml" class="home_login" title="商家注册">商家注册</a>
+        	        	 
+        </div>
+        <div class="right_links"><span href="javascript:void();" style="position:relative;z-index:99;" id="my_order">我的订单
+        	   <ul class="my_order_ul">
+                <li><a href="/user/travelorder.shtml">我的线路订单</a></li>
+                <li><a href="/user/hotelsorder.shtml">我的酒店订单</a></li>
+                <li><a href="/user/grouporder.shtml">我的团购订单</a></li>
+             </ul>
+        	</span><span>|</span><a href="/help/index.shtml">在线帮助</a><span>|</span><a href="/webmap/index.shtml">网站地图</a><span>|</span><a href="javascript:setHomepage('http://www.lypub.com');">设为主页</a><span>|</span><a href="javascript:addCookie('http://www.lypub.com','誉游网');">收藏</a>
+        		<!--<span>|</span><a href="#">关注誉游网微博</a>--></div>
+    </div><!--top_link end-->
+    <div class="top_sch_con">
+        <div class="logo_Con"><a href="http://www.lypub.com"><img src="/themes/travel/css/images/logo.jpg" /></a></div>
+                 <div class="change_City">出发城市：上海<a href="/region/index.shtml">【切换城市】</a></div>
+                   <form enctype="multipart/form-data" id="header_search" action="/search/index.shtml" method="post">        <div class="sch_box"> 
+        	<div class="select_js">
+        	   <p>线路</p>
+        	   <ul class="search_ul">
+                <li ectype="travel">线路</li>
+                <li ectype="hotels">酒店</li>
+             </ul>
+            <input type="hidden" name="action" value="travel" />
+            
+          </div>
+          <input type="text" name="keywords" value="" class="t_put" id="header_search_keywords"/>
+          <input type="submit" class="s_put" value=""/>
+        </div>
+       </form>        <!--<div class="tel_Con"><img src="/themes/travel/css/images/top_tel.jpg" /></div>-->
+    </div><!--top_sch_con end--> 
+</div><!--web_top end-->
+
+
+<div class="nav_bg">
+    <div class="nav_con">
+    	
+    	 			<ul>
+				  <li><a href="/site/index.shtml" title="首页"
+                            >首页</a></li>
+					        	  <li><a href="/travel/index/channel/131.shtml" title="周边游" id="">周边游</a></li>
+                 	  <li><a href="/travel/index/channel/132.shtml" title="国内游" id="">国内游</a></li>
+                 	  <li><a href="/travel/index/channel/133.shtml" title="出境游" id="">出境游</a></li>
+                 	  <li><a href="/travel/index/channel/134.shtml" title="团队游" id="">团队游</a></li>
+                 	  <li><a href="/travel/index/channel/135.shtml" title="特价线路" id="">特价线路</a></li>
+                 	  <li><a href="/hotels/index/channel/138.shtml" title="国内酒店" id="">国内酒店</a></li>
+               </ul>
+        <div><!--<a href="/group/list/channel/137.shtml">团购</a><span>|</span>--><a href="/mchannels/information/channel/136.shtml">资讯</a></div>
+    </div>
+</div>
+<!--nav_bg end-->
+<div class="site_nav">
+  <ul>
+    <li>您当前所处的位置：</li>
+    <li><div class="breadcrumbs">
+<a href="http://www.lypub.com">首页</a> &raquo; <a href="/mchannels/list/channel/136/category.shtml">旅游资讯</a> &raquo; <span>草莓采摘注意事项</span></div>		</li>
+    
+  </ul>
+</div><!--//当前位置-->
+
+  	<div class="main_con">
+<div class="w750">
+   <div class="news_infor"><!--news_infor 详细-->
+       <h1 class="news_title">草莓采摘注意事项</h1>
+       <div class="sear_explain news_dd"><span>资讯类别:景区资讯</span><span>查看次数:17</span><span>发布时间:2013-02-19 11:56:29</span></div>
+       	<p>
+       		<p>草莓采摘注意事项</p>
+<p>草莓全部都在一个个暖棚里，而暖棚里温度高又非常闷热，所以事先一定要做足准备。</p>
+<p>1、春季草莓大棚里比外界温度高出10度左右，采摘进出大棚注意减衣加衣，防止感冒。</p>
+<p>2、随身带好创可贴，风油精等药品(棚内比较闷)。</p>
+<p>3、女士不要穿高跟鞋，棚内比较滑，道路也不平。</p>
+<p>4、采草莓的最佳时间为早上8：30-10：00(下午大棚内太热)。</p>
+<p>5、草莓较易压坏，游客可自带盒子或者纸箱，不要用塑料袋装。</p>
+<p>6、可以在现场买纸箱打包，纸箱为2元一个。</p>
+<p>7、暖棚中泥土很潮湿，可将马甲袋套在鞋子外面。</p>
+<p>8、.带个小剪刀，因为虽然好摘，但毕竟平时不接触，也不知轻重，会拉断别的草莓的。</p>
+<p>9、还有个很重要的补充：先别急着进棚采草莓，把你的采摘篮子先秤一下分量，因为采好后他会连着篮子给你一起秤分量的，为了避免不愉快，先小人后君子哦。</p>
+<p>10、草莓维生素含量高，营养丰富，但性凉，一次不适宜吃太多，否则肠胃会因过寒而不舒服，一般每次吃10-20粒为宜。小孩酌减。<br />
+&nbsp;</p>       	</p>
+       	<div class="clear_float"></div>
+       	         
+        <div class="clear_float"></div>
+         <!--分享-->
+          <div class="fxbox">
+          	<div class="fxt">分享到：</div>
+        <!-- Baidu Button BEGIN -->
+       				 <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+        					<a class="bds_qzone"></a>
+        					<a class="bds_tsina"></a>
+        					<a class="bds_tqq"></a>
+        					<a class="bds_renren"></a>
+        					<span class="bds_more"></span>
+									<a class="shareCount"></a>
+    					</div>  
+							<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=783195" ></script>
+							<script type="text/javascript" id="bdshell_js"></script>
+							<script type="text/javascript">
+									document.getElementById("bdshell_js").src = "http://share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+							</script>
+
+					<!-- Baidu Button END -->
+          </div><!--分享结束-->
+        
+           <div class="clear_float"></div>
+            
+         <!--分页-->
+          <div class="next">
+          	    <p>上一篇：<a href='/mchannels/show/id/6.shtml'>十万拍得“帝王头汤” “嫔妃宫女”陪入浴</a></p><p>下一篇：<a href='javascript:void(0);'>没有了</a></p>          		 
+          </div>
+                
+        
+   </div><!--//news_infor 详细-->
+</div><!--//w750-->
+<div class="R-r-right">
+                <div class="hot_rec_con">
+                	<div class="R_r_title">热卖推荐<a href="#">更多></a></div>
+                    <div class="hot_rec">
+                        <ul>
+                                                              <li> 
+                            		<span class="top_num">1</span>
+                                <a title="【上海出发】无锡太湖一日游" href="/travel/show/id/26.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】无锡太湖一日游" src="/upload/images/_60_40_1358131417_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】无锡太湖一日游" href="/travel/show/id/26.shtml"><span>【上海出发】无锡太湖一日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>85.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">2</span>
+                                <a title="【上海出发】西塘古镇（纯玩）一日游" href="/travel/show/id/27.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】西塘古镇（纯玩）一日游" src="//_60_40__thumb." /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】西塘古镇（纯玩）一日游" href="/travel/show/id/27.shtml"><span>【上海出发】西塘古镇（纯玩&nbsp;</span></a></p>
+                                <div class="rec_price"><b>85.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">3</span>
+                                <a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/34.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】苏州、乌镇二日游" src="//_60_40__thumb." /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/34.shtml"><span>【上海出发】苏州、乌镇二&nbsp;</span></a></p>
+                                <div class="rec_price"><b>220.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">4</span>
+                                <a title="泰国306系列精品5晚7日游" href="/travel/show/id/62.shtml" class="rec_img_con"><p><img width="60" height="40" alt="泰国306系列精品5晚7日游" src="/upload/images/_60_40_1361518086_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="泰国306系列精品5晚7日游" href="/travel/show/id/62.shtml"><span>泰国306系列精品5晚7日游&nbsp;</span></a></p>
+                                <div class="rec_price"><b>3880.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">5</span>
+                                <a title="【上海出发】杭州西湖一日游" href="/travel/show/id/19.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】杭州西湖一日游" src="/upload/images/_60_40_1358130325_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】杭州西湖一日游" href="/travel/show/id/19.shtml"><span>【上海出发】杭州西湖一日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>75.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">6</span>
+                                <a title="【上海出发】周庄水乡一日游" href="/travel/show/id/22.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】周庄水乡一日游" src="/upload/images/_60_40_1358131927_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】周庄水乡一日游" href="/travel/show/id/22.shtml"><span>【上海出发】周庄水乡一日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>85.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">7</span>
+                                <a title="【上海出发】苏州、周庄二日游" href="/travel/show/id/31.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】苏州、周庄二日游" src="/upload/images/_60_40_1358131927_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】苏州、周庄二日游" href="/travel/show/id/31.shtml"><span>【上海出发】苏州、周庄二&nbsp;</span></a></p>
+                                <div class="rec_price"><b>160.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">8</span>
+                                <a title="澳大利亚新西兰南北岛11日揽胜之旅" href="/travel/show/id/61.shtml" class="rec_img_con"><p><img width="60" height="40" alt="澳大利亚新西兰南北岛11日揽胜之旅" src="//_60_40__thumb." /></p></a>
+                                <p class="hot_rec_p"><a title="澳大利亚新西兰南北岛11日揽胜之旅" href="/travel/show/id/61.shtml"><span>澳大利亚新西兰南北岛11日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>19990.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">9</span>
+                                <a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" src="/upload/images/_60_40_1359343445_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】厦门、鼓浪屿、集美双飞常规3日游" href="/travel/show/id/51.shtml"><span>【上海出发】厦门、鼓浪屿&nbsp;</span></a></p>
+                                <div class="rec_price"><b>1880.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">10</span>
+                                <a title="【上海出发】苏州、无锡二日游" href="/travel/show/id/32.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】苏州、无锡二日游" src="/upload/images/_60_40_1358131417_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】苏州、无锡二日游" href="/travel/show/id/32.shtml"><span>【上海出发】苏州、无锡二&nbsp;</span></a></p>
+                                <div class="rec_price"><b>220.00</b>元起</div>
+                            </li>
+         
+                        </ul>
+					</div>
+                </div><!--hot_rec end-->
+                <div class="new_infor">
+                	<div class="R_r_title">最新资讯<a title="更多最新资讯" href="/mchannels/information/channel/136.shtml">更多></a></div>
+                    <ul>
+                    	               	  <li><a href="/mchannels/show/id/2.shtml" title="沪最大樱花林下月免费开放 面积超3个人民广场">沪最大樱花林下月免费开放&nbsp;</a></li>
+                	  <li><a href="/mchannels/show/id/1.shtml" title="旅游途中有人要拦阻旅游车 导游员该怎么办？">旅游途中有人要拦阻旅游车&nbsp;</a></li>
+                	  <li><a href="/mchannels/show/id/4.shtml" title="誉游网同业线路分销上线了">誉游网同业线路分销上线了&nbsp;</a></li>
+                	  <li><a href="/mchannels/show/id/7.shtml" title="草莓采摘注意事项">注意事项,草莓采摘&nbsp;</a></li>
+                	  <li><a href="/mchannels/show/id/3.shtml" title="今明铁路迎来首波春运客流高峰 4成订票未取">今明铁路迎来首波春运客流&nbsp;</a></li>
+                	  <li><a href="/mchannels/show/id/5.shtml" title="旅行难成行 “环球套票”去年推出后买者寥寥">环球套票</a></li>
+                	  <li><a href="/mchannels/show/id/6.shtml" title="十万拍得“帝王头汤” “嫔妃宫女”陪入浴">十万拍得“帝王头汤” “&nbsp;</a></li>
+         
+                    </ul>
+                </div><!--new_infor end-->
+                
+                <!--
+            	<div class="contact_us">
+                	<div class="R_r_title">联系我们</div>
+                	<div class="contact-con">
+                    	<div class="con-tel"><img src="images/contact_tel.jpg" /></div>
+                    	<div class="address_txt">武汉市雄楚大道188号花园公寓四层</div>
+                	</div>
+                </div>
+                
+                -->
+  </div>
+
+<div class="clear_float"></div>
+</div><!--main_con end-->
+  	
+<div class="foot_con">
+	 <div class="web_bot_ad"><p><img width="980" height="80" src="/fckupload/image/image/guanggao_tupian/web_bot_ad(1).jpg" alt="" /></p></div>
+	
+	  <div class="help_center">
+    	<div class="help_con">
+    		            <dl>
+                <dt class="h_dl_title1"><a href="#">注册与登录</a></dt>
+                                		<dd><a href="/help/index/cid/22.shtml#h39">门店会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h40">商户会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h46">PSOE机刷卡</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h37">游客会员注册</a></dd>
+                                		<dd><a href="/help/index/cid/22.shtml#h38">会员登录</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title2"><a href="#">预订与合同</a></dt>
+                                		<dd><a href="/help/index/cid/23.shtml#h41">网上在线预订</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h42">门店现场签约</a></dd>
+                                		<dd><a href="/help/index/cid/23.shtml#h43">合同签署方式</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title3"><a href="#">付款与发票</a></dt>
+                                		<dd><a href="/help/index/cid/24.shtml#h44">网银在线支付</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h45">门店现金付款</a></dd>
+                                		<dd><a href="/help/index/cid/24.shtml#h47">发票内容及获取</a></dd>
+                                
+            </dl>
+                    <dl>
+                <dt class="h_dl_title4"><a href="#">优惠与质量</a></dt>
+                                		<dd><a href="/help/index/cid/25.shtml#h48">什么是抵用券</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h49">抵用券如何使用</a></dd>
+                                		<dd><a href="/help/index/cid/25.shtml#h50">抵用券如何获取</a></dd>
+                                
+            </dl>
+            
+        	<div class="clear_float"></div>
+    	</div>
+	</div><!--help_center end-->
+	
+		
+    <div class="help_bottom">
+    	  <dl class="h_dl_btitle1">
+    <dt>省钱省时</dt>
+    <dd>品质更高，价格更低</dd>
+</dl>
+<dl class="h_dl_btitle2">
+    <dt>5000家门票供应商</dt>
+    <dd>一人一票也可折扣</dd>
+</dl>
+<dl class="h_dl_btitle3">
+    <dt>门票+酒店</dt>
+    <dd>全面自助游服务供应商</dd>
+</dl>
+<dl class="h_dl_btitle4">
+    <dt>7天x24小时服务</dt>
+    <dd>实力体现，体验更佳</dd>
+</dl>        <div class="clear_float"></div>
+    </div><!--help_bottom end-->
+    <div class="linksbox"><!--友情链接-->
+    	<dl class="linksmain">
+        	<dt><!--链接类型-->
+            	  <strong>友情链接</strong>
+                <span class="linklabel">
+                				                <a class="flinktype_item linklabela_hover" href="javascript:void();" keys="15">综合类</a>
+			           			                <a class="flinktype_item " href="javascript:void();" keys="16">旅游类</a>
+			           	              </span>
+            </dt><!--结束 链接类型-->
+            
+            			                 <dd id="flink_15" class="flink_item" style='display:block;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.tangdy.com" target="_blank">汤迪网络</a></li>
+                					                  					</ul>
+            					</dd>
+			       			                 <dd id="flink_16" class="flink_item" style='display:none;'>
+            	  					<ul>
+            	  						                						     <li><a rel="nofollow" href="http://www.lyyhome.com" target="_blank">立火旅行网</a></li>
+                					                  						     <li><a rel="nofollow" href="http://www.41ly.cn" target="_blank">中元旅游网</a></li>
+                					                  					</ul>
+            					</dd>
+			           
+    <div style="clear:both"></div>
+    </div>
+    
+    <script language="javascript">
+    	jQuery(function(){
+    		 jQuery(".flinktype_item").hover(function(){
+    		 	  var keys=jQuery(this).attr("keys");
+    		 	  jQuery(".linklabela_hover").removeClass("linklabela_hover");
+    		 	  jQuery(this).addClass("linklabela_hover");
+    		 	  jQuery(".flink_item").hide();
+    		 	  jQuery("#flink_"+keys).show();
+    		 	
+    		},function(){
+    			  
+    		});
+    		
+    	})
+    </script>	<div class="footer">
+		<div class="footer_div"><a class="a_black12" href="/help/index/cid/26.shtml#h52">联系我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="a_black12" href="help/index/cid/26.shtml#h51">关于我们</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="&gt;广告服务&lt;/a&gt;&lt;/div&gt;
+&lt;div class=" href="/help/index/cid/26.shtml#h53">Copyright&copy; 2012-2020 lypub.com</a></div>
+<p>&nbsp;</p>
+<div class="footer_img">
+<ul>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p1.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p2.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p3.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p4.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p5.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p6.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p7.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p8.gif" /></a></li>
+    <li><a href="#"><img alt="" src="/themes/travel/css/images/f_p9.gif" /></a></li>
+</ul>
+<div class="clear_float">&nbsp;</div>
+</div>
+<p>&nbsp;</p>	</div><!--footer end-->
+</div>
+
+<!--fanhui-->
+    <!--<a id="Feedback" title="意见反馈" target="_blank" href="#" hidefocus="false"></a>-->
+    <div id="goTopBtn"></div>
+    <!--//fanhui--></body>
+</html>
+
+
+";i:1;a:9:{i:0;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:26:"/themes/travel/css/css.css";}}i:1;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:30:"/themes/travel/css/comment.css";}}i:2;a:3:{i:0;s:12:"clientScript";i:1;s:15:"registerCssFile";i:2;a:1:{i:0;s:29:"/js/jbox/Skins2/Pink/jbox.css";}}i:3;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerCoreScript";i:2;a:1:{i:0;s:6:"jquery";}}i:4;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:12:"/js/basic.js";}}i:5;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:15:"/js/comments.js";}}i:6;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:31:"/js/jbox/jquery.jBox-2.3.min.js";}}i:7;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:34:"/js/jbox/i18n/jquery.jBox-zh-CN.js";}}i:8;a:3:{i:0;s:12:"clientScript";i:1;s:18:"registerScriptFile";i:2;a:1:{i:0;s:13:"/js/select.js";}}}}i:1;O:18:"CDbCacheDependency":7:{s:12:"connectionID";s:2:"db";s:3:"sql";s:40:"SELECT MAX(update_time) FROM tr_archives";s:6:"params";N;s:23:" CDbCacheDependency _db";N;s:23:" CCacheDependency _data";a:1:{s:16:"MAX(update_time)";s:10:"1372549461";}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}

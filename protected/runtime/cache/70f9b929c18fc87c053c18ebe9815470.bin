@@ -1,0 +1,70 @@
+a:2:{i:0;a:2:{i:0;s:5348:"				<h2 class="left_hot_title">
+          <ul>
+           <li><a href="javascript:void(0);" class="tt_tab tt_tab_active" index="1"  title="热门路线" >热买路线</a></li>
+           <li><a href="javascript:void(0);" class="tt_tab" index="2"  title="当季推荐" >当季推荐</a></li>
+         </ul>
+       </h2>
+       
+       <div class="tabcontent" id="tabcontent_1"><!--Start Tabcontent 1 热门路线-->
+           <div class="hot_rec left_hot_li">
+                        <ul>
+                                     <li> 
+                            		<span class="top_num">1</span>
+                                <a title="【上海出发】杭州西湖一日游" href="/travel/show/id/48.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】杭州西湖一日游" src="/upload/images/_60_40_1358130325_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】杭州西湖一日游" href="/travel/show/id/48.shtml"><span>【上海出发】杭州西湖一日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>75.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">2</span>
+                                <a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/50.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】苏州、乌镇二日游" src="/upload/images/_60_40_1358129230_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/50.shtml"><span>【上海出发】苏州、乌镇二&nbsp;</span></a></p>
+                                <div class="rec_price"><b></b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">3</span>
+                                <a title="【上海出发】杭州、无锡二日游" href="/travel/show/id/49.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】杭州、无锡二日游" src="/upload/images/_60_40_1358131417_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】杭州、无锡二日游" href="/travel/show/id/49.shtml"><span>【上海出发】杭州、无锡二&nbsp;</span></a></p>
+                                <div class="rec_price"><b></b>元起</div>
+                            </li>
+         
+                        </ul>
+					</div>
+       <div class="clear_float"></div> 
+       </div><!--End Tabcontent 1-->
+       
+       
+       
+       <!--Start Tabcontent 2-->
+       <div class="tabcontent" id="tabcontent_2" style="display:none;">
+          <div class="hot_rec left_hot_li">
+                        <ul>
+                                   <li> 
+                            		<span class="top_num">1</span>
+                                <a title="【上海出发】杭州西湖一日游" href="/travel/show/id/48.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】杭州西湖一日游" src="/upload/images/_60_40_1358130325_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】杭州西湖一日游" href="/travel/show/id/48.shtml"><span>【上海出发】杭州西湖一日&nbsp;</span></a></p>
+                                <div class="rec_price"><b>75.00</b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">2</span>
+                                <a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/50.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】苏州、乌镇二日游" src="/upload/images/_60_40_1358129230_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】苏州、乌镇二日游" href="/travel/show/id/50.shtml"><span>【上海出发】苏州、乌镇二&nbsp;</span></a></p>
+                                <div class="rec_price"><b></b>元起</div>
+                            </li>
+                                   <li> 
+                            		<span class="top_num">3</span>
+                                <a title="【上海出发】杭州、无锡二日游" href="/travel/show/id/49.shtml" class="rec_img_con"><p><img width="60" height="40" alt="【上海出发】杭州、无锡二日游" src="/upload/images/_60_40_1358131417_thumb.jpg" /></p></a>
+                                <p class="hot_rec_p"><a title="【上海出发】杭州、无锡二日游" href="/travel/show/id/49.shtml"><span>【上海出发】杭州、无锡二&nbsp;</span></a></p>
+                                <div class="rec_price"><b></b>元起</div>
+                            </li>
+         
+                        </ul>
+					</div>
+       </div>
+       <!--End Tabcontent 2 -->
+       <script language="javascript">
+       jQuery(function(){
+          togglemenu({"source":"tt_tab","target":"tabcontent","type":"1","effect":"2","effect_time":1000});
+       
+       });
+       
+       </script>";i:1;N;}i:1;N;}

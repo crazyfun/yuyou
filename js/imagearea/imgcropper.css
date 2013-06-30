@@ -1,0 +1,2 @@
+#rRightDown,#rLeftDown,#rLeftUp,#rRightUp,#rRight,#rLeft,#rUp,#rDown{position:absolute;background:#F00;width:5px; height:5px; z-index:500; font-size:0;}
+#dragDiv{border:1px solid #000000;background-color:#FFFFFF;filter:alpha(opacity:30);opacity:0.3;}

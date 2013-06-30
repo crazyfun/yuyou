@@ -1,0 +1,82 @@
+<?php
+       $this->widget('SearchItems', array( 
+          'model_name'=>'DownloadsServer', 
+          'user_operate'=>array(
+              array(
+               'name'=>'增加下载链接',
+               'value'=>$this->createUrl("add",array('downloads_id'=>$downloads_id)),
+              ),
+          ),
+          //搜索的内容字段
+          'search_datas'=>array(
+             'downloads_id'=>array(
+               'name'=>'',
+               'type'=>'hidden',//搜索框的类型
+               'select'=>$downloads_id,
+               'value'=>'',
+               'htmlOptions'=>array(),
+             ),
+             'server_name'=>array(
+               'name'=>'服务器名称',
+               'type'=>'text',//搜索框的类型
+               'select'=>$page_params['server_name'],
+               'value'=>'',
+               'htmlOptions'=>array(),
+             ),
+             
+          ), 
+          'dataprovider'=>$dataProvider,
+          //列表显示的字段
+          'attributes'=>array(
+             array(
+                'name'=>'id',
+                'type'=>'raw',//字段的属性 参考yii
+                'value'=>'$data->id',//如果为空则以$data->id为值 如果有值则 已$data->func()填充
+             ),
+			 			array(
+							'name'=>'downloads_id',
+							'type'=>'raw',
+							'value'=>'$data->show_attribute("downloads_id")',
+						 ),
+ 						array(
+                'name'=>'server_name',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("server_name")',
+             ),
+         		array(
+                'name'=>'server_address',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("server_address")',
+             ),
+             array(
+                'name'=>'create_id',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("create_id")',
+             ),
+			
+             array(
+                'name'=>'create_time',
+                'type'=>'raw',
+                'value'=>'$data->show_attribute("create_time")',
+             ),
+              
+             array(
+                'name'=>'操作',
+                'type'=>'raw',
+                'value'=>'$data->get_operate()',
+             ),
+          
+          ),
+          //批量操作按钮
+          'operates'=>array(
+             array(
+               'name'=>'删除所有',
+               'value'=>'javascript:batch_operate(\''.$this->createUrl("delete",array('downloads_id'=>$downloads_id)).'\');'
+             ),
+          ),
+          //是否需要全选列
+          'checked_all'=>true,
+          //是否使用ajax翻页
+          'ajax'=>false,    
+       ));
+?>

@@ -1,0 +1,48 @@
+a:2:{i:0;a:2:{i:0;s:1977:"									
+			<div class="h_special"><!--特价酒店-->
+              <h2 class="h_stitle">
+              <span class="h_stpan">热门酒店推荐</span>
+              <div class="main_rbmenu">
+                <ul>
+                	
+                	
+                	                	     <li class="current2"><a category="" brand_id="" show="line_list_tuijian" view="tuijian"  class="show_travel_region" end_region="478" limit="10" sort="update_time" sort_type="DESC"  attr="c"  title="上海市">上海市</a></li>
+                	     <script language="javascript">
+                	     	  jQuery(function(){
+														var end_region="478";
+														var attr="c";
+														var limit="10";
+														var sort="update_time";
+														var sort_type="DESC";
+														var show="line_list_tuijian";
+														var view="tuijian";
+														var brand_id="";
+														var categroy="";
+                	     	  	get_hotels_datas(show,categroy,end_region,attr,limit,sort,sort_type,view,brand_id);
+                	     	  });
+                	     </script>
+                	     	
+                   
+			      </ul>
+			      
+			        
+                        <div class="p_abs main_rbmore h_more_sort"><div class="h_more_sort_item">更多目的地<em class="h_arrow"></em></div>
+                              <div class="p_abs h_destination_area">
+                                <ul class="clearfix destination_data_list">
+                                  <li>
+                                                                         </li>
+                              
+                                </ul>
+                              </div>
+        				</div>
+        			
+
+           </div><!--//main_rbmenu-->
+         </h2><!--//h_stitle-->
+           <div class="h_speclist" id="line_list_tuijian">
+
+         </div>
+       </div><!--//特价酒店-->
+       
+      
+              ";i:1;N;}i:1;N;}
